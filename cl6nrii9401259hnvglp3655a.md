@@ -7,7 +7,7 @@ type Person = { age: number; name: string; alive: boolean };
 type Age = Person["age"]; // Age의 타입은 number가 됨
 ```
 
-여기서 인덱싱 타입 역시 타입이라는 점에서 유니언, `keyof`, 다른 타입을 사용할 수 있습니다.
+여기서 인덱싱 타입 역시 타입이라는 점에서 유니온, `keyof`, 다른 타입을 사용할 수 있습니다.
 
 ```typescript
 type Person = { age: number; name: string; alive: boolean };
