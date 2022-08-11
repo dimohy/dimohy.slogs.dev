@@ -139,7 +139,7 @@ interface Circle {
 type KindlessCircle = RemoveKindField<Circle>;
 ```
 
-`string | number | symbol` 유니언 타입 뿐만 아니라 다른 유니언 타입에 대해 임의의 매핑을 할 수 있습니다.
+`string | number | symbol` 유니온 타입 뿐만 아니라 다른 유니온 타입에 대해 임의의 매핑을 할 수 있습니다.
 
 ```typescript
 type EventConfig<Events extends { kind: string }> = {
