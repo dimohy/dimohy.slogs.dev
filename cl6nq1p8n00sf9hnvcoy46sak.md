@@ -15,7 +15,7 @@ const c:P = "m";
 > Type '"m"' is not assignable to type 'keyof Point'.
 ```
 
-`keyof` 연산자는 객체 타입의  속성 (그리고 함수 이름)을 유니언 타입으로 조합하여 생성합니다.
+`keyof` 연산자는 객체 타입의  속성 (그리고 함수 이름)을 유니온 타입으로 조합하여 생성합니다.
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1660141532573/Nz7_1ifd31.png align="left")
 
@@ -32,7 +32,7 @@ type M = keyof Mapish;  // string | number
 ```
 
 첫번째 `Arrayish`는 `number` 인덱서이므로 `keyof`는 `number`를 반환합니다.
-두번째 `Mapish`는 `string` 인덱서이지만 JavaScript에서 `obj[0]`과 `obj["0"]`는 동일하게 동작하므로 `string`이 아닌 `string | number` 유니언 타입이 됩니다.
+두번째 `Mapish`는 `string` 인덱서이지만 JavaScript에서 `obj[0]`과 `obj["0"]`는 동일하게 동작하므로 `string`이 아닌 `string | number` 유니온 타입이 됩니다.
 
 `keyof` 타입은 매핑된 타입에서 유용하게 사용됩니다.
 
