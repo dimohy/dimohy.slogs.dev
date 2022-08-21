@@ -2,7 +2,7 @@
 
 오늘은 TypeScript의 모듈 시스템을 핸드북의 내용을 통해 살펴볼 것입니다.
 
-> 대부분의 내용은 핸드북 [모듈](https://www.typescriptlang.org/docs/handbook/2/modules.html) 내용이 번역된 것입니다.
+> 대부분의 내용은 핸드북 [Modules](https://www.typescriptlang.org/docs/handbook/2/modules.html) 내용이 번역된 것입니다.
 
 JavaScript 모듈 (ES 모듈)은 JavaScript 사양에 추가가 되어 2020년까지 대부분의 웹 브라우저와 JavaScript 런타임에서 사용할 수 있습니다.
 
