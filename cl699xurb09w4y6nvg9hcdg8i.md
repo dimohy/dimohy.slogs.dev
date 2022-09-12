@@ -26,7 +26,7 @@ Fusion 기반 코드는 처음에는 완전히 이상해 보일 수 있습니다
 
 - 빠른 시작: HelloCart 샘플을 통해 Fusion의 80% 알아보기
 - [0부: NuGet 패키지](https://dimohy.slogger.today/fusion-0-nuget)
-- 1부: Compute 서비스
+- [1부: Compute 서비스](https://dimohy.slogger.today/fusion-1)
 - 2부: Computed 값: IComputed<T>
 - 3부: 상태: IState<T> 느껴보기
 - [4부: Replica 서비스](https://dimohy.slogger.today/fusion-4-replica)
