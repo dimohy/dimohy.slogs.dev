@@ -36,7 +36,7 @@ Fusion 기반 코드는 처음에는 완전히 이상해 보일 수 있습니다
 - 8부: Fusion 서비스 확장
 - [9부: CommandR](https://dimohy.slogger.today/fusion-9-commandr)
 - 10부: 운영 프레임워크를 사용한 다중 호스트 무효화 및 CQRS
-- 11부: Fusion에서 인증
+- [11부: Fusion에서 인증](https://dimohy.slogger.today/fusion-11-fusion)
 - 에필로그
 
 마지막으로 다음을 확인:
