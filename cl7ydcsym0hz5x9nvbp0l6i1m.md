@@ -208,7 +208,7 @@ ASP.NET Core와 Fusion 간에 인증 상태를 동기화하는 제안된 방법�
 
 다음 코드 조각은 `Host.cshtml`에 포함하는 방법을 보여줍니다.
 
-```csharp
+```razor
 @page "/"
 @addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 @namespace Templates.TodoApp.Host.Pages
