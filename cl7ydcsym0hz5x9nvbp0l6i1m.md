@@ -161,7 +161,7 @@ public class DbUser<TDbUserId> : IHasId<TDbUserId>, IHasVersion<long> where TDbU
 ```
 
 
-### 권한 부여를 위해 컴퓨팅ㅈ 서비스에서 세션 사용
+### 권한 부여를 위해 컴퓨팅 서비스에서 세션 사용
 
 우리의 컴퓨팅 서비스는 우리가 인증되었는지 여부와 로그인한 사용자가 누구인지 결정하는 데 사용할 수 있는 `Session` 개체를 수신할 수 있습니다.
 
