@@ -309,7 +309,7 @@ services.AddAuthentication(options => {
 
 - https://github.com/servicetitan/Stl.Fusion/blob/master/src/Stl.Fusion.Server/Controllers/SignInController.cs
 
-이러한 작업에 대해 다른 논리를 사용하려면 다른 컨트롤러의 유사한 작업에 매핑하고 경로를 업데이트하거나(+ JS에서도 `window.FusionAuth.signInPath` 및 `window.FusionAuth.signInPath` 설정) 이 컨트롤러를 교체할 수 있습니다. . 이를 위한 편리한 도우미가 있습니다: `services.AddFusion().AddServer().AddControllerFilter(...)`.
+이러한 작업에 대해 다른 논리를 사용하려면 다른 컨트롤러의 유사한 작업에 매핑하고 경로를 업데이트하거나(+ JS에서도 `window.FusionAuth.signInPath` 및 `window.FusionAuth.signOutPath` 설정) 이 컨트롤러를 교체할 수 있습니다. . 이를 위한 편리한 도우미가 있습니다: `services.AddFusion().AddServer().AddControllerFilter(...)`.
 
 마지막으로 앱 구성에 약간의 추가 기능이 필요합니다.
 
