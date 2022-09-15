@@ -3,6 +3,7 @@
 > 본 글은 [Stl.Fusion](https://github.com/servicetitan/Stl.Fusion)의 튜토리얼 [Part 4: Replica Services](https://github.com/servicetitan/Stl.Fusion.Samples/blob/master/docs/tutorial/Part04.md) 문서를 번역한 것입니다.
 
 이것을 다룬 동영상:
+
 %[https://youtu.be/_wFhi11Eb0o]
 
 Replica 서비스는 동일한 웹 API 클라이언트보다 더 효율적으로 `IComputed<T>` 동작을 고려하는 Compute 서비스의 원격 프록시입니다.
@@ -273,6 +274,7 @@ bComputed: 10, ReplicaClientComputed`1(Intercepted:ICounterServiceProxy.Get(b, S
 짐작하듯이 여기에서 사용한 컨트롤러는 일반 Web API 컨트롤러입니다. Fusion없이 메서드를 호출할 수 있는지 궁금하다면 그렇습니다. 따라서 모든 Fusion 엔드포인트는 일반 Web API 엔드포인트이기도 합니다!
 
 증거:
+
 %[https://www.youtube.com/watch?v=jYVe5yd0xuQ&t=4173s]
 
 이제 클라이언트 측 `LiveState<T>`가 복제 서비스를 사용하여 서버 측 Compute 서비스의 출력을 "관찰"할 수 있음을 보여 드리겠습니다. 아래 코드는 `LiveState<T>`를 보여주는 이전 부분에서 본 것과 거의 동일하지만 Computed 서비스 대신 Replica 서비스를 사용합니다.
