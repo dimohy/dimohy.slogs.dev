@@ -29,11 +29,11 @@ namespace WinUI.Extensions;
 public class ToggleSwitchCommandBehavior : Behavior<ToggleSwitch>
 {
     public readonly static DependencyProperty CommandProperty =
-        DependencyProperty.Register(nameof(Command), typeof(ICommand), typeof(ToggleSwitchBehavior_old),
+        DependencyProperty.Register(nameof(Command), typeof(ICommand), typeof(ToggleSwitchCommandBehavior),
             new PropertyMetadata(null, OnIsExternalChanged));
 
     public readonly static DependencyProperty CommandParameterProperty =
-        DependencyProperty.Register(nameof(CommandParameter), typeof(object), typeof(ToggleSwitchBehavior_old),
+        DependencyProperty.Register(nameof(CommandParameter), typeof(object), typeof(ToggleSwitchCommandBehavior),
             new PropertyMetadata(null));
 
     private bool _isAccessUserInputProperty;
