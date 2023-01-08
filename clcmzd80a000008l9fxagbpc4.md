@@ -1,4 +1,4 @@
-# Used in expressions without redundant assignment using the "is" operator
+# Use the "is" operator to use non-duplicated expressions
 
 ```csharp
 var input = "15,2";
