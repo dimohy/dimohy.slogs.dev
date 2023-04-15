@@ -2,7 +2,7 @@
 title: "새로운 계측 도구로 Visual Studio 성능 향상"
 datePublished: Sat Apr 15 2023 12:04:31 GMT+0000 (Coordinated Universal Time)
 cuid: clghxkhi8000j09mj4t2s24b5
-slug: visual-studio
+slug: improving-visual-studio-performance-with-the-new-instrumentation-tool
 tags: net, dotnet
 
 ---
@@ -19,7 +19,7 @@ Visual Studio 2022 버전 17.6 출시와 함께 성능 프로파일러에 새롭
 
 "Visual Studio에 이미 계측 도구가 있지 않나요?"라고 생각하셨다면 제대로 생각하신 것입니다! 그럼, 뭐가... 새로워졌나요? 글쎄요, 전체 목록은 다음과 같습니다.
 
-* **더 빠르고 더 적은 리소스**: 이 도구는 훨씬 더 빠르고 디스크 공간을 적게 사용하며, 리포지토리를 복제하고 측정값을 직접 확인할 수 있습니다. 샘플 앱: [ScabbleFinderDotNet](https://github.com/karpinsn/ScrabbleFinderDotNet)  
+* **더 빠르고 더 적은 리소스**: 이 도구는 훨씬 더 빠르고 디스크 공간을 적게 사용하며, 리포지토리를 복제하고 측정값을 직접 확인할 수 있습니다. 샘플 앱: [ScabbleFinderDotNet](https://github.com/karpinsn/ScrabbleFinderDotNet)
     
     ![Graph of instrumentation tool performance. 35x smaller file and 7x less overhead](https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2023/04/InstrumentationToolPerformance.png align="left")
     
@@ -40,7 +40,7 @@ Visual Studio 2022 버전 17.6 출시와 함께 성능 프로파일러에 새롭
 
 ![Summary view of Visual Studio Instrumentation tool](https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2023/03/InstrumentationToolSummaryPage.png align="left")
 
-상위 함수는 가장 많은 시간이 소요되는 함수를 표시하고, 핫 경로는 가장 비용이 많이 드는 코드 경로를 표시합니다. 세부 정보 패널을 열고 다음과 같이 표시되는 프레임 그래프로 전환합니다.
+상위 함수는 가장 많은 시간이 소요되는 함수를 표시하고, 핫 경로는 가장 비용이 많이 드는 코드 경로를 표시합니다. 세부 정보 패널을 열고 다음과 같이 표시되는 플레임 그래프로 전환합니다.
 
 ![Flame chart from Visual Studio Instrumentation Tool](https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2023/03/InstrumentationToolFlameChart.png align="left")
 
@@ -52,7 +52,7 @@ Visual Studio 2022 버전 17.6 출시와 함께 성능 프로파일러에 새롭
 
 이 문제를 해결하려면 일부 병렬 데이터 구조를 사용하여 잠금이 필요하지 않도록 하거나 메서드 서명을 비동기화하도록 변경하고 [SemaphoreSlim.WaitAsync](https://learn.microsoft.com/ko-kr/dotnet/api/system.threading.semaphoreslim.waitasync?view=net-7.0)를 사용하여 최소한 스레드 풀 스레드를 차단하지 않도록 하는 방법을 조사할 수 있습니다. 두 가지 변경 사항 모두 조금 더 복잡하므로 코드에 TODO를 추가하고 나중에 다시 돌아올 수 있습니다.
 
-다시 프레임 그래프로 돌아가서, 다음으로 눈에 띄는 것은 `List.Sort`인데, 한눈에 보기에는 일부 데이터를 정렬하는 데 약 20%의 시간을 소비하고 있는 것처럼 보입니다. 다시 노드를 마우스 오른쪽 버튼으로 클릭하고 호출 트리로 상호 참조하면 세부 통계를 볼 수 있습니다. 여기에는 데이터를 정렬하는 데 20초를 소비하면서 24,000회 이상 sort를 호출하고 있음을 보여줍니다!
+다시 플레임 그래프로 돌아가서, 다음으로 눈에 띄는 것은 `List.Sort`인데, 한눈에 보기에는 일부 데이터를 정렬하는 데 약 20%의 시간을 소비하고 있는 것처럼 보입니다. 다시 노드를 마우스 오른쪽 버튼으로 클릭하고 호출 트리로 상호 참조하면 세부 통계를 볼 수 있습니다. 여기에는 데이터를 정렬하는 데 20초를 소비하면서 24,000회 이상 sort를 호출하고 있음을 보여줍니다!
 
 ![Call tree and source view of Visual Studio Instrumentation tool showing time spent in sort](https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2023/03/InstrumentationToolSortIssue.png align="left")
 
