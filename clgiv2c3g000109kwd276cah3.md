@@ -3,6 +3,7 @@ title: "문자열을 .NET 개체로 변환하기 - IParsable 및 ISpanParsable"
 datePublished: Sun Apr 16 2023 03:42:11 GMT+0000 (Coordinated Universal Time)
 cuid: clgiv2c3g000109kwd276cah3
 slug: net-iparsable-ispanparsable
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681618464298/2de13e33-c944-488c-9455-446f9c86f75b.jpeg
 tags: csharp
 
 ---
@@ -12,6 +13,8 @@ tags: csharp
 ---
 
 C# 11의 새로운 기능으로 인터페이스 추상 정적 멤버를 사용할 수 있습니다. 이를 통해 + 및 - 연산자를 사용하는 등 제네릭 클래스 구현에서 계약으로 사용할 클래스 메서드를 정의할 수 있습니다. .NET 7에서는 숫자 유형이 많은 새로운 인터페이스를 구현합니다. 이 C# 11의 기능은 수학에만 국한된 것이 아닙니다! 새로운 `IParsable` 및 `ISpanParsable` 인터페이스를 사용하면 문자열에서 개체를 만들 수 있습니다. 이러한 인터페이스는 제네릭 타입의 제약 조건과 함께 사용할 수 있으므로 이제 제네릭 구현을 통해 문자열을 구문 분석하여 개체를 생성하는 작업이 쉬워졌습니다. 이 문서에서는 구문 분석 인터페이스의 문자열 버전과 스팬 버전을 모두 구현하고 이를 제네릭 타입과 함께 사용하는 방법을 보여줍니다.
+
+![Parse strings to objects](https://csharpdotchristiannageldotcom.files.wordpress.com/2023/04/parsestringstoobjects.jpg align="left")
 
 ![Parse strings to objects](https://csharpdotchristiannageldotcom.files.wordpress.com/2023/04/parsestringstoobjects.jpg align="left")
 
