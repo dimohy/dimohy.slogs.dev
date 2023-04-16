@@ -16,8 +16,6 @@ C# 11의 새로운 기능으로 인터페이스 추상 정적 멤버를 사용�
 
 ![Parse strings to objects](https://csharpdotchristiannageldotcom.files.wordpress.com/2023/04/parsestringstoobjects.jpg align="left")
 
-![Parse strings to objects](https://csharpdotchristiannageldotcom.files.wordpress.com/2023/04/parsestringstoobjects.jpg align="left")
-
 ## IFormattable
 
 새로운 것은 아니지만 문자열에서 구문 분석의 다른 측면인 개체를 문자열로 변환하는 인터페이스부터 시작하겠습니다. `IFormattable` 인터페이스는 .NET 초기부터 사용 가능했습니다. 구문 분석 가능 인터페이스와 달리 `IFormattable` 인터페이스에 정의된 멤버는 인스턴스 멤버입니다.
