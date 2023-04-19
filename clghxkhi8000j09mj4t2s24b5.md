@@ -1,5 +1,5 @@
 ---
-title: "새로운 계측 도구로 Visual Studio 성능 향상"
+title: "새로운 계측 도구로 Visual Studio 성능 향상 | Nik Karpinsky"
 datePublished: Sat Apr 15 2023 12:04:31 GMT+0000 (Coordinated Universal Time)
 cuid: clghxkhi8000j09mj4t2s24b5
 slug: improving-visual-studio-performance-with-the-new-instrumentation-tool
