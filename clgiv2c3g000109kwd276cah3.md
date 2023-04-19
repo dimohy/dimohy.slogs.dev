@@ -1,8 +1,8 @@
 ---
-title: "문자열을 .NET 개체로 변환하기 - IParsable 및 ISpanParsable"
+title: "문자열을 .NET 개체로 변환하기 - IParsable 및 ISpanParsable | Christian Nagel"
 datePublished: Sun Apr 16 2023 03:42:11 GMT+0000 (Coordinated Universal Time)
 cuid: clgiv2c3g000109kwd276cah3
-slug: net-iparsable-ispanparsable
+slug: net-iparsable-ispanparsable-christian-nagel
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681618464298/2de13e33-c944-488c-9455-446f9c86f75b.jpeg
 tags: csharp
 
