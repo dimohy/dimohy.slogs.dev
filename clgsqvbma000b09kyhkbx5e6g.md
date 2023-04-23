@@ -4,7 +4,7 @@ datePublished: Sun Apr 23 2023 01:42:27 GMT+0000 (Coordinated Universal Time)
 cuid: clgsqvbma000b09kyhkbx5e6g
 slug: code-readability-vs-performance
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682205707212/ca26f3ee-5554-4392-829f-17ed2dc86ca5.webp
-tags: programming-ciovqvfcb008mb253jrczo9ye
+tags: programming
 
 ---
 
