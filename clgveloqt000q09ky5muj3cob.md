@@ -4,6 +4,7 @@ datePublished: Mon Apr 24 2023 22:22:21 GMT+0000 (Coordinated Universal Time)
 cuid: clgveloqt000q09ky5muj3cob
 slug: writing-a-net-profiler-in-c-part-1
 canonical: https://minidump.net/writing-a-net-profiler-in-c-part-1-d3978aae9b12
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682376246475/6d1536a6-e9f8-45a2-8ffe-9ce1f90e2b84.jpeg
 tags: net, dotnet
 
 ---
