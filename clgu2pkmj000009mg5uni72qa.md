@@ -3,6 +3,7 @@ title: "쿠버네티스로 비-루트 .NET 컨테이너 실행하기 | Richard L
 datePublished: Mon Apr 24 2023 00:01:41 GMT+0000 (Coordinated Universal Time)
 cuid: clgu2pkmj000009mg5uni72qa
 slug: running-nonroot-kubernetes-with-dotne
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682294581956/06307e5b-ce89-4867-b706-d6eb343f7d6e.png
 tags: net, dotnet
 
 ---
