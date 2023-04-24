@@ -2,7 +2,7 @@
 title: "쿠버네티스로 비-루트 .NET 컨테이너 실행하기 | Richard Lander"
 datePublished: Mon Apr 24 2023 00:01:41 GMT+0000 (Coordinated Universal Time)
 cuid: clgu2pkmj000009mg5uni72qa
-slug: net-richard-lander
+slug: running-nonroot-kubernetes-with-dotne
 tags: net, dotnet
 
 ---
