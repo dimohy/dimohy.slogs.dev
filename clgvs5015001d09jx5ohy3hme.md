@@ -2,7 +2,7 @@
 title: "C#으로 .NET 프로파일러 작성 - 2부 | Kevin Gosse"
 datePublished: Tue Apr 25 2023 04:41:17 GMT+0000 (Coordinated Universal Time)
 cuid: clgvs5015001d09jx5ohy3hme
-slug: c-net-2-kevin-gosse
+slug: writing-a-net-profiler-in-c-part-2
 canonical: https://minidump.net/writing-a-net-profiler-in-c-part-2-8039da001e43
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682396923491/3894fd0d-84b1-460a-82c7-db826f108f6b.jpeg
 tags: net, dotnet
