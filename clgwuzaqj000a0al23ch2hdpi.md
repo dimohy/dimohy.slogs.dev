@@ -361,7 +361,7 @@ public bool SmallSellerVerifyRefactoredTwo(List<Seller> sellers) => sellers.Any(
 
 ![Remane 2](https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2022/2022-11/rename-2.png?sfvrsn=b2ca8da6_3 align="left")
 
-## `9. 불필요한 사용량 제거`
+## `9. 불필요한 using 제거`
 
 불필요한 `using` 인스턴스를 제거하면 코드가 더 적은 줄로 깔끔해지므로 리팩터링에서 항상 좋은 관행이 됩니다.
 
