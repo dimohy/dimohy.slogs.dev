@@ -9,7 +9,7 @@ tags: net, dotnet
 
 ---
 
-> Kevin Gosse님의 [**Writing a .NET profiler in C# - Part 1**](https://minidump.net/writing-a-net-profiler-in-c-part-1-d3978aae9b12)**을 번역하였습니다.**
+> Kevin Gosse님의 [**Writing a .NET profiler in C# - Part 1**](https://minidump.net/writing-a-net-profiler-in-c-part-1-d3978aae9b12)을 번역하였습니다.
 
 ---
 
