@@ -1,5 +1,5 @@
 ---
-title: "MVVM 툴킷으로 Blazor에서 비동기 명령 취소가 쉬워짐 | bromix"
+title: "MVVM 툴킷을 사용한 블레이저에서 쉽게 비동기 명령 취소하기 | bromix"
 datePublished: Fri May 05 2023 01:06:08 GMT+0000 (Coordinated Universal Time)
 cuid: clh9uutrb000709l244kahe5p
 slug: canceling-async-commands-made-easy-in-blazor-with-mvvm-toolkit
