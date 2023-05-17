@@ -5,7 +5,7 @@ cuid: clhrtjylu000209lc118c321t
 slug: abstractions-to-easily-swap-implementations-not-so-fast
 canonical: https://codeopinion.com/abstractions-to-easily-swap-implementations-not-so-fast/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1684334910617/3c843d8f-f307-4944-922e-53a91c0b9659.webp
-tags: net, dotnet
+tags: programming
 
 ---
 
