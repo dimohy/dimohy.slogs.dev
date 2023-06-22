@@ -4,6 +4,7 @@ datePublished: Thu Jun 22 2023 01:31:01 GMT+0000 (Coordinated Universal Time)
 cuid: clj6gvq9k000409lc1hzvc0et
 slug: net-patrick-smacchia
 canonical: https://blog.ndepend.com/improved-net-debugging-experience-with-source-link/
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1687397482910/1f7dac37-c4ba-493c-9534-7b8bfa4a9c11.webp
 tags: debugging, net, dotnet
 
 ---
