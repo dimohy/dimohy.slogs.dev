@@ -9,7 +9,7 @@ tags: net, dotnet
 
 ---
 
-> 본 글은 [Andrew LockAndrew LockAndrew Lock](https://andrewlock.net/)Andrew Lock님의 [Using the new configuration binder source generator](https://andrewlock.net/exploring-the-dotnet-8-preview-using-the-new-configuration-binder-source-generator/#why-do-we-need-more-source-generators-)를 [DeepL](https://www.deepl.com/translator)의 도움을 받아 번역하였습니다.
+> 본 글은 [Andrew Lock](https://andrewlock.net/)님의 [Using the new configuration binder source generator](https://andrewlock.net/exploring-the-dotnet-8-preview-using-the-new-configuration-binder-source-generator/#why-do-we-need-more-source-generators-)를 [DeepL](https://www.deepl.com/translator)의 도움을 받아 번역하였습니다.
 
 이 글은 .NET 8 미리 보기 살펴보기 시리즈의 첫 번째 글입니다.
 
@@ -265,7 +265,7 @@ internal static class GeneratedConfigurationBinder
 
 ```csharp
 // Why does this 👇 suddenly call the source generator instead of the existing extension method
-builder.Services.Configure<AppFeaturesSettings>(configSection); 
+builder.Services.Configure<AppFeaturesSettings>(configSection);
 ```
 
 메소드 서명을 주의 깊게 살펴보면 답을 찾을 수 있습니다. 라이브러리 메서드 서명은 다음과 같습니다.
