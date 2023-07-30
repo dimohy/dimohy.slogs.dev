@@ -9,7 +9,7 @@ tags: net, dotnet
 
 ---
 
-> 본 글은 [Andrew Lock](https://andrewlock.net/)님의 [Using the new configuration binder source generator](https://andrewlock.net/exploring-the-dotnet-8-preview-using-the-new-configuration-binder-source-generator/#why-do-we-need-more-source-generators-)를 [DeepL](https://www.deepl.com/translator)의 도움을 받아 번역하였습니다.
+> [Andrew Lock](https://andrewlock.net/)님의 [Using the new configuration binder source generator](https://andrewlock.net/exploring-the-dotnet-8-preview-using-the-new-configuration-binder-source-generator/#why-do-we-need-more-source-generators-)를 [DeepL](https://www.deepl.com/translator)의 도움을 받아 번역하였습니다.
 
 이 글은 .NET 8 미리 보기 살펴보기 시리즈의 첫 번째 글입니다.
 
