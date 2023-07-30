@@ -4,6 +4,7 @@ datePublished: Sun Jul 30 2023 08:57:43 GMT+0000 (Coordinated Universal Time)
 cuid: clkp7kjph000709ml1tjfc6rd
 slug: 7ioi66gc7jq0ioq1royessdrsjtsnbjrjzqg7iam7iqkioydneyeseq4scdsgqzsmqk
 canonical: https://andrewlock.net/exploring-the-dotnet-8-preview-using-the-new-configuration-binder-source-generator/#why-do-we-need-more-source-generators-
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690707538952/125bceba-383e-46e4-b55c-ea91f5426747.jpeg
 tags: net, dotnet
 
 ---
