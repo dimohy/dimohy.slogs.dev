@@ -1,5 +1,5 @@
 ---
-title: "최소 Api Aot 컴파일 템플릿"
+title: "미니멀 Api Aot 컴파일 템플릿"
 datePublished: Mon Jul 31 2023 05:41:20 GMT+0000 (Coordinated Universal Time)
 cuid: clkqfzusj000j09lahcr30qer
 slug: the-minimal-api-aot-compilation-template
