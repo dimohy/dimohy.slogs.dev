@@ -16,8 +16,8 @@ tags: net, dotnet
 [1부 - 새로운 구성 바인더 소스 생성기 사용하기](https://dimohy.hashnode.dev/7ioi66gc7jq0ioq1royessdrsjtsnbjrjzqg7iam7iqkioydneyeseq4scdsgqzsmqk)  
 [2부 - 미니멀 API AOT 컴파일 템플릿](https://dimohy.hashnode.dev/the-minimal-api-aot-compilation-template)  
 3부 - WebApplication.CreateBuilder()와 새로운 CreateSlimBuilder() 메서드 비교(이 게시물)  
-4부 - 새로운 미니멀 API 소스 생성기 살펴보기  
-5부 - 메서드 호출을 인터셉터로 대체하기
+[4부 - 새로운 미니멀 API 소스 생성기 살펴보기](https://dimohy.hashnode.dev/exploring-the-dotnet-8-preview-changing-method-calls-with-interceptors)  
+[5부 - 메서드 호출을 인터셉터로 대체하기](https://dimohy.hashnode.dev/exploring-the-dotnet-8-preview-changing-method-calls-with-interceptors)
 
 이 게시물에서는 새로운 `CreateSlimBuilder` 메서드를 살펴봅니다. 이 메서드는 AOT 시나리오를 지원하기 위해 기존 `WebApplication.CreateBuilder` 메서드의 대안으로 .NET 8에 도입되었습니다. 이 글에서는 슬림 빌더에서 빠진 기능에 대해 개략적으로 설명한 다음 코드를 자세히 살펴보고 어떻게 구현되는지 살펴봅니다.
 
@@ -28,7 +28,7 @@ tags: net, dotnet
 [이전 게시물](https://dimohy.slogs.dev/the-minimal-api-aot-compilation-template)에서 .NET 8에 도입된 Ahead-of-time(AOT) 미니멀 API `api` 템플릿을 보여드렸습니다. 해당 템플릿의 첫 번째 줄은
 
 ```csharp
-var builder = WebApplication.CreateSlimBuilder(args); 
+var builder = WebApplication.CreateSlimBuilder(args);
 ```
 
 `web` "빈" 템플릿의 해당 줄(.NET 6-8에서 본질적으로 변경되지 않음)과 비교합니다.
@@ -403,7 +403,7 @@ public static class Host
 
 ```diff
 - builder.UseKestrel().ConfigureKestrel(ConfigureKestrel)
-+ builder.UseKestrelCore().ConfigureKestrel(ConfigureKestrel), 
++ builder.UseKestrelCore().ConfigureKestrel(ConfigureKestrel),
 ```
 
 이제 유일한 차이점은 `UseKestrel()`과 `UseKestrelCore()`라는 것이 더 분명해졌습니다. `UseKestrel()`을 살펴보면 기본 빌더와 슬림 빌더의 Kestrel 구성에서 유일한 차이점은 예상대로 HTTPS와 Quic 지원뿐이라는 것을 알 수 있습니다.
