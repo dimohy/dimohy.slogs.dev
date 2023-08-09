@@ -17,7 +17,7 @@ tags: net, dotnet
 [2부 - 미니멀 API AOT 컴파일 템플릿](https://dimohy.hashnode.dev/the-minimal-api-aot-compilation-template)  
 [3부 - WebApplication.CreateBuilder()와 새로운 CreateSlimBuilder() 메서드 비교하기](https://dimohy.hashnode.dev/webapplicationcreatebuilder-createslimbuilder)  
 4부 - 새로운 미니멀 API 소스 생성기 살펴보기(이 게시물)  
-5부 - 메서드 호출을 인터셉터로 대체하기
+[5부 - 메서드 호출을 인터셉터로 대체하기](https://dimohy.hashnode.dev/exploring-the-dotnet-8-preview-changing-method-calls-with-interceptors)
 
 이 시리즈에서는 .NET 8 프리뷰에 포함된 몇 가지 새로운 기능을 살펴봅니다. 이번 글에서는 AOT 워크로드를 지원하기 위해 도입된 새로운 미니멀 API 소스 생성기에 대해 살펴봅니다.
 
