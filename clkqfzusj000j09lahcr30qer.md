@@ -14,9 +14,10 @@ tags: net, dotnet
 이 글은 [.NET 8 미리 보기 살펴보기](https://dimohy.hashnode.dev/series/exploring-dotnet8-preview) 시리즈의 두 번째 포스팅입니다.
 
 [1부 - 새로운 구성 바인더 소스 생성기 사용](https://dimohy.hashnode.dev/7ioi66gc7jq0ioq1royessdrsjtsnbjrjzqg7iam7iqkioydneyeseq4scdsgqzsmqk)  
-2부 - 최소한의 API AOT 컴파일 템플릿(이 게시물)  
-3부 - WebApplication.CreateBuilder()와 새로운 CreateSlimBuilder() 메서드 비교하기  
-4부 - 새로운 최소 API 소스 생성기 살펴보기 5부 - 메서드 호출을 인터셉터로 대체하기
+2부 - 미니멀 API AOT 컴파일 템플릿(이 게시물)  
+[3부 - WebApplication.CreateBuilder()와 새로운 CreateSlimBuilder() 메서드 비교하기](https://dimohy.hashnode.dev/webapplicationcreatebuilder-createslimbuilder)  
+[4부 - 새로운 미니멀 API 소스 생성기 살펴보기](https://dimohy.hashnode.dev/exploring-the-dotnet-8-preview-exploring-the-new-minimal-api-source-generator)  
+[5부 - 메서드 호출을 인터셉터로 대체하기](https://dimohy.hashnode.dev/exploring-the-dotnet-8-preview-changing-method-calls-with-interceptors)  
 
 .NET 8의 가장 큰 초점 중 하나는 Ahead of Time(AOT) 컴파일입니다. 이 글에서는 .NET 8 SDK 미리보기 릴리스에서 제공되는 새로운 "AOT 지원" 템플릿을 살펴보고, 몇 가지 흥미로운 기능을 짚어보고, AOT의 주요 이점 중 하나인 빠른 시작 시간을 시연해 보겠습니다.
 
