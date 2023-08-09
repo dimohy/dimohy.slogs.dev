@@ -2,7 +2,7 @@
 title: "새로운 구성 바인더 소스 생성기 사용"
 datePublished: Sun Jul 30 2023 08:57:43 GMT+0000 (Coordinated Universal Time)
 cuid: clkp7kjph000709ml1tjfc6rd
-slug: 7ioi66gc7jq0ioq1royessdrsjtsnbjrjzqg7iam7iqkioydneyeseq4scdsgqzsmqk
+slug: exploring-the-dotnet-8-preview-using-the-new-configuration-binder-source-generatorwhy-do-we-need-more-source-generators
 canonical: https://andrewlock.net/exploring-the-dotnet-8-preview-using-the-new-configuration-binder-source-generator/#why-do-we-need-more-source-generators-
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690707538952/125bceba-383e-46e4-b55c-ea91f5426747.jpeg
 tags: net, dotnet
@@ -11,13 +11,13 @@ tags: net, dotnet
 
 > [Andrew Lock](https://andrewlock.net/)님의 [Using the new configuration binder source generator](https://andrewlock.net/exploring-the-dotnet-8-preview-using-the-new-configuration-binder-source-generator/#why-do-we-need-more-source-generators-)를 [DeepL](https://www.deepl.com/translator)의 도움을 받아 번역하였습니다.
 
-이 글은 .NET 8 미리 보기 살펴보기 시리즈의 첫 번째 글입니다.
+이 글은 [.NET 8 미리 보기 살펴보기 시리즈](https://dimohy.hashnode.dev/series/exploring-dotnet8-preview)의 첫 번째 글입니다.
 
 1부 - 새로운 구성 바인더 소스 생성기 사용(이 게시물)  
-2부 - 미니멀 API AOT 컴파일 템플릿  
-3부 - WebApplication.CreateBuilder()와 새로운 CreateSlimBuilder() 메서드 비교하기  
-4부 - 새로운 미니멀 API 소스 생성기 살펴보기  
-5부 - 메서드 호출을 인터셉터로 대체하기
+[2부 - 미니멀 API AOT 컴파일 템플릿](https://dimohy.hashnode.dev/the-minimal-api-aot-compilation-template)  
+[3부 - WebApplication.CreateBuilder()와 새로운 CreateSlimBuilder() 메서드 비교하기](https://dimohy.hashnode.dev/webapplicationcreatebuilder-createslimbuilder)  
+[4부 - 새로운 미니멀 API 소스 생성기 살펴보기](https://dimohy.hashnode.dev/exploring-the-dotnet-8-preview-exploring-the-new-minimal-api-source-generator)  
+[5부 - 메서드 호출을 인터셉터로 대체하기](https://dimohy.hashnode.dev/exploring-the-dotnet-8-preview-changing-method-calls-with-interceptors)
 
 이 글은 새 시리즈의 첫 번째 포스팅으로, .NET 8 프리뷰에 포함된 몇 가지 새로운 기능을 살펴봅니다. 이 게시물에서는 *Microsoft.Extensions.Configuration 구성 바인더*를 대상으로 도입된 새로운 소스 생성기를 살펴봅니다.
 
