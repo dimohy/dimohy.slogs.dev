@@ -33,7 +33,7 @@ tags: net, dotnet
 
 고객은 코드를 변경할 필요가 없으며, 소스 생성기가 메서드 호출을 자동으로 "업그레이드"하여 소스 생성 버전을 사용하기만 하면 됩니다. 익숙하게 들린다면 [구성 소스 생성기](https://andrewlock.net/exploring-the-dotnet-8-preview-using-the-new-configuration-binder-source-generator/)와 [기존의 미니멀 API 소스 생성기](https://andrewlock.net/exploring-the-dotnet-8-preview-exploring-the-new-minimal-api-source-generator/)가 이미 그렇게 하고 있기 때문입니다! 차이점은 이러한 생성기는 현재 메서드 특이성 규칙에 의존하여 컴파일러가 소스 생성된 메서드를 사용하도록 "속이는" 것입니다. 인터셉터는 대체를 명시적으로 만듭니다.
 
-이론적으로 인터셉터를 사용하면 구성 소스 생성기나 최소 API 소스 생성기와 같은 소스 생성기를 더 쉽게 빌드할 수 있습니다. 심지어 [정규식 생성기](https://learn.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-source-generators)나 [로깅 생성기](https://andrewlock.net/exploring-dotnet-6-part-8-improving-logging-performance-with-source-generators/)와 같은 기존 소스 생성기를 개선할 수도 있습니다. 생성기가 요구하는 패턴을 사용하기 위해 코드를 변경할 필요 없이 생성기가 자동으로 기존 코드를 개선할 수 있습니다! 적어도 이론적으로는 말이죠.
+이론적으로 인터셉터를 사용하면 구성 소스 생성기나 미니멀 API 소스 생성기와 같은 소스 생성기를 더 쉽게 빌드할 수 있습니다. 심지어 [정규식 생성기](https://learn.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-source-generators)나 [로깅 생성기](https://andrewlock.net/exploring-dotnet-6-part-8-improving-logging-performance-with-source-generators/)와 같은 기존 소스 생성기를 개선할 수도 있습니다. 생성기가 요구하는 패턴을 사용하기 위해 코드를 변경할 필요 없이 생성기가 자동으로 기존 코드를 개선할 수 있습니다! 적어도 이론적으로는 말이죠.
 
 > 몇 달 전에 [.NET 커뮤니티 스탠드업에서 인터셉터에 대한 훌륭한 토론](https://www.youtube.com/watch?v=X1_QeH1yAto&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t&index=12)이 있었습니다. 꼭 시청해 보시길 강력히 추천합니다!
 
@@ -141,7 +141,7 @@ static class Interception
 
 ```bash
 Intercepted '/'
-... 
+...
 ```
 
 엔드포인트가 여러 개인 경우 어떻게 하나요?
@@ -189,7 +189,7 @@ InterceptMapGet(IEndpointRouteBuilder, string, Delegate)' because the signatures
 
 이제 장난감 예제를 이해하셨으니 실제 소스 제너레이터가 인터셉터를 어떻게 사용하는지 살펴보겠습니다!
 
-## 인터셉터 사용을 위한 최소 API 생성기 업데이트
+## 인터셉터 사용을 위한 미니멀 API 생성기 업데이트
 
 이전 게시물에서 .NET 8 미리보기 6에서 제공되는 [미니멀 API 소스 생성기](https://dimohy.hashnode.dev/exploring-the-dotnet-8-preview-exploring-the-new-minimal-api-source-generator)에 대해 설명했습니다. 하지만 해당 게시물을 게시하기 직전에 소스 생성기 구현을 인터셉터를 사용하도록 대체하는 [PR이 병합](https://github.com/dotnet/aspnetcore/pull/48817)되었습니다!
 
@@ -354,7 +354,7 @@ public static class StandardEndpointExtensions
 }
 ```
 
-`AddStandardEndpoints()` 메서드는 NuGet 패키지에 정의되어 있으므로 이미 컴파일되어 있습니다. 즉, 최소 API 소스 생성기가 해당 `MapGet` 호출을 가로채지 않습니다. 이러한 호출에 대해 AOT를 지원하는 유일한 방법은 라이브러리를 컴파일할 때 최소 API 소스 생성기를 활성화한 후 NuGet에 배포하는 것입니다.
+`AddStandardEndpoints()` 메서드는 NuGet 패키지에 정의되어 있으므로 이미 컴파일되어 있습니다. 즉, 미니멀 API 소스 생성기가 해당 `MapGet` 호출을 가로채지 않습니다. 이러한 호출에 대해 AOT를 지원하는 유일한 방법은 라이브러리를 컴파일할 때 미니멀 API 소스 생성기를 활성화한 후 NuGet에 배포하는 것입니다.
 
 이 방법은 여러 면에서 더 간단하지만 "일반적인" 객체 지향 프로그래밍(AOP)을 수행하는 방법으로서 인터셉터의 유용성을 제한합니다.
 
