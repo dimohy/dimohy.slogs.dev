@@ -1,5 +1,5 @@
 ---
-title: "Visual Studio Code에서 중단점 설정"
+title: "`.vue`에서 중단점 설정하기"
 datePublished: Thu Aug 10 2023 10:53:49 GMT+0000 (Coordinated Universal Time)
 cuid: cll51k8na000x09jj5xrh7hxc
 slug: visual-studio-code-vue-debug
