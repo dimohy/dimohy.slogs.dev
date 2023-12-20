@@ -3,6 +3,7 @@ title: "ASP.NET Core의 multipart/form-data 데이터 섹션에서 JSON 및 바�
 datePublished: Wed Dec 20 2023 08:01:51 GMT+0000 (Coordinated Universal Time)
 cuid: clqdhjiy0000r08jrbtsn8aie
 slug: aspnet-core-multipartform-data-json-andrew-lock
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1703078228810/cf6984a6-d15c-4a52-96da-37f23f784adb.png
 tags: dotnet
 
 ---
