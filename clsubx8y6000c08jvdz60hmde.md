@@ -3,6 +3,7 @@ title: "[Uno] MVUX"
 datePublished: Tue Feb 20 2024 12:16:03 GMT+0000 (Coordinated Universal Time)
 cuid: clsubx8y6000c08jvdz60hmde
 slug: uno-mvux
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708431400381/459d5b6c-61d6-499a-9797-74dc675dc687.png
 tags: dotnet, unoplatform, mvux
 
 ---
