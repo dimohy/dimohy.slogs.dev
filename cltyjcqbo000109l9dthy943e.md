@@ -55,9 +55,17 @@ public static class QueryableExtensions
     public static IQueryable<TModel> ApplySearchOptions<TModel>(this IQueryable<TModel> @this, SearchOptions options)
         where TModel : BaseEntity
     {
+        var result = @this;
+
+        // 검색 처리
+        if (string.IsNullOrWhiteSpace(options.SearchByPropertyName) is false && string.IsNullOrWhiteSpace(options.SearchKeywords) is false)
+        {
+            result = result.Where(ToLambda<TModel>(options.SearchByPropertyName, options.SearchKeywords));
+        }
+
         // 페이지 처리
-        var result = @this
-            .Skip(options.PageStart * options.PageSize)
+        result = result
+            .Skip(options.PageNumber * options.PageSize)
             .Take(options.PageSize);
 
         // 정렬 기준
@@ -76,12 +84,6 @@ public static class QueryableExtensions
                 result = result.OrderByDescending(ToLambda<TModel>(options.OrderByPropertyName));
             else
                 result = result.OrderBy(ToLambda<TModel>(options.OrderByPropertyName));
-        }
-
-        // 검색 처리
-        if (string.IsNullOrWhiteSpace(options.SearchByPropertyName) is false && string.IsNullOrWhiteSpace(options.SearchKeywords) is false)
-        {
-            result = result.Where(ToLambda<TModel>(options.SearchByPropertyName, options.SearchKeywords));
         }
 
         return result;
