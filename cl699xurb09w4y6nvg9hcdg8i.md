@@ -1,4 +1,11 @@
-## Fusion 튜토리얼
+---
+title: "Fusion 튜토리얼"
+datePublished: Sun Jul 31 2022 12:03:51 GMT+0000 (Coordinated Universal Time)
+cuid: cl699xurb09w4y6nvg9hcdg8i
+slug: fusion
+tags: dotnet, stlfusion
+
+---
 
 > 이 문서는 [Stl.Fusion](https://github.com/servicetitan/Stl.Fusion)의 [Fusion Tutorial](https://github.com/servicetitan/Stl.Fusion.Samples/tree/master/docs/tutorial)를 번역한 것입니다.
 
