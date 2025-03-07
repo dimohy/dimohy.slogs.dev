@@ -1,4 +1,11 @@
-## TypeScript 배우기 - 4. 좁히기
+---
+title: "TypeScript 배우기 - 4. 좁히기"
+datePublished: Thu Jul 07 2022 02:33:30 GMT+0000 (Coordinated Universal Time)
+cuid: cl5aezxrz02fg2gnvhsauhzmr
+slug: typescript-4
+tags: typescript
+
+---
 
 좁히기(Narrowing)는 유니온 유형 등 공통의 연산 또는 호출을 할 수 없을 때 `typeof`등을 이용해 대상을 좁히는(타겟팅 하는) 것을 말합니다. 다음의 예를 살펴보죠.
 
