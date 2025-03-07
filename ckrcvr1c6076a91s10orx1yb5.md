@@ -1,4 +1,11 @@
-## Rust #4: 4장 소유권의 이해
+---
+title: "Rust #4: 4장 소유권의 이해"
+datePublished: Wed Jul 21 2021 02:42:08 GMT+0000 (Coordinated Universal Time)
+cuid: ckrcvr1c6076a91s10orx1yb5
+slug: rust-4-4
+tags: rust
+
+---
 
 ## 개요
 Rust는 참조형 인스턴스의 소유권이라는 독특한 기능을 가지고 있습니다. 이것을 통해 Rust는 가비지 수집기 없이도 안전하게 메모리에 인스턴스를 할당하거나 해제할 수 있게 됩니다. 이글은 [4장. 소유권 이해](https://doc.rust-lang.org/nightly/book/ch04-00-understanding-ownership.html)의 소스코드를 따라 하면서 Rust의 `소유권`을 이해하고 손에 익는데 목적이 있습니다.
