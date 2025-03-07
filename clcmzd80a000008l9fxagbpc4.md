@@ -1,4 +1,11 @@
-# Use the "is" operator to use non-duplicated expressions
+---
+title: "Use the "is" operator to use non-duplicated expressions"
+datePublished: Sun Jan 08 2023 06:14:53 GMT+0000 (Coordinated Universal Time)
+cuid: clcmzd80a000008l9fxagbpc4
+slug: use-the-is-operator-to-use-non-duplicated-expressions
+tags: csharp
+
+---
 
 ```csharp
 var input = "15,2";
