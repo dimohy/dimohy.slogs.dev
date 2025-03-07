@@ -1,4 +1,11 @@
-## TypeScript 배우기 - 12. 매핑된 타입
+---
+title: "TypeScript 배우기 - 12. 매핑된 타입"
+datePublished: Wed Aug 10 2022 16:49:01 GMT+0000 (Coordinated Universal Time)
+cuid: cl6nuj3ie01bvainv8tlr49vz
+slug: typescript-12
+tags: typescript
+
+---
 
 TypeScript는 마치 매크로 언어처럼 기존 타입을 기반으로 새로운 타입을 쉽게 만들 수 있습니다.
 
