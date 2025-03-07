@@ -1,4 +1,11 @@
-## Rust #9: 9장 오류처리
+---
+title: "Rust #9: 9장 오류처리"
+datePublished: Wed Aug 25 2021 06:09:48 GMT+0000 (Coordinated Universal Time)
+cuid: cksr3kwnv0oq7vks17qde8abb
+slug: rust-9-9
+tags: rust
+
+---
 
 ## 개요
 Rust는 다른 프로그래밍 언어와 다르게 `복구 가능한 오류`와 `복구 불가능한 오류`를 구분해서 처리합니다. 이시간을 통해 이 두가지 유형에 대해 알아보는 시간을 가져 봅시다.
