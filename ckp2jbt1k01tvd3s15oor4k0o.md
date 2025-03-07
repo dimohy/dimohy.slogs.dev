@@ -1,4 +1,12 @@
-## 컴퓨팅 사고(Computational thinking, CT)란?
+---
+title: "컴퓨팅 사고(Computational thinking, CT)란?"
+datePublished: Mon May 24 2021 11:37:16 GMT+0000 (Coordinated Universal Time)
+cuid: ckp2jbt1k01tvd3s15oor4k0o
+slug: computational-thinking-ct
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1621856364364/X06Cq-JF3.png
+tags: programming
+
+---
 
 오늘은 컴퓨팅 사고에 대해 이야기 해보겠습니다.
 
