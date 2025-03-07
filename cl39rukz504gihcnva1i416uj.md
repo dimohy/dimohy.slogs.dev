@@ -1,4 +1,11 @@
-## EF Core 6 배우기 - 1. 시작하기
+---
+title: "EF Core 6 배우기 - 1. 시작하기"
+datePublished: Tue May 17 2022 06:26:04 GMT+0000 (Coordinated Universal Time)
+cuid: cl39rukz504gihcnva1i416uj
+slug: ef-core-6-1
+tags: dotnet, efcore
+
+---
 
 [Entity Framework Core](https://docs.microsoft.com/ko-kr/ef/core/) (줄여서 EF Core)는 마이크로소프트에서 개발한 .NET(Core)용 ORM 프레임워크로 [Entity Framework](https://en.wikipedia.org/wiki/Entity_Framework)의 경험으로 새롭게 재개발 되었습니다.
 [ORM(Object-relational mapping)](https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping)을 이용하면 SQL 쿼리를 사용하지 않고 DBMS에 종속적인 코드를 최소화 할 수 있습니다.
