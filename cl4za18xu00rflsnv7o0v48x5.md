@@ -1,4 +1,11 @@
-## TypeScript 배우기 - 3. 일반 유형
+---
+title: "TypeScript 배우기 - 3. 일반 유형"
+datePublished: Wed Jun 29 2022 07:29:05 GMT+0000 (Coordinated Universal Time)
+cuid: cl4za18xu00rflsnv7o0v48x5
+slug: typescript-3
+tags: typescript
+
+---
 
 이번 장에서는 JavaScript 코드의 가장 흔한 타입들을 다루고, 이 타입을 TypeScript에서는 어떻게 표현하는지 설명합니다.
 우선 JavaScript 또는 TypeScript 코드에서 기본적이며 흔하게 만날 수 있는 타입을 살펴보는 것부터 시작해봅시다.
