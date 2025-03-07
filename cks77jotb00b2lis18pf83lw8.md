@@ -1,4 +1,11 @@
-## Rust #7: 7장 패키지, 크레이트 및 모듈로 커지는 프로젝트 관리
+---
+title: "Rust #7: 7장 패키지, 크레이트 및 모듈로 커지는 프로젝트 관리"
+datePublished: Wed Aug 11 2021 08:05:26 GMT+0000 (Coordinated Universal Time)
+cuid: cks77jotb00b2lis18pf83lw8
+slug: rust-7-7
+tags: rust
+
+---
 
 ## 개요
 작성중인 코드 크기가 커지게 되면 작업 위치를 찾기가 어려워집니다. 그렇기 때문에 코드를 적절하게 모듈화 해야 하는데요,  이번 장은 Rust에서 필요한 기능을 크레이트를 통해 이용하고, 패키지를 모듈화 하는 방법을 알아보도록 합시다.
