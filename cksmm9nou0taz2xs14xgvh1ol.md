@@ -1,4 +1,11 @@
-## nullable 참조 형식 적응하기
+---
+title: "nullable 참조 형식 적응하기"
+datePublished: Sun Aug 22 2021 02:54:05 GMT+0000 (Coordinated Universal Time)
+cuid: cksmm9nou0taz2xs14xgvh1ol
+slug: nullable-reference-types
+tags: csharp
+
+---
 
 이제까지 강제 사항은 아니지만 C# 8부터 [nullable 참조 형식](https://docs.microsoft.com/ko-kr/dotnet/csharp/nullable-references)을 사용할 수 있었습니다.
 
