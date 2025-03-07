@@ -1,4 +1,11 @@
-## Rust #3: 코드 따라하기(2/2) - 3장 일반적인 프로그래밍 개념
+---
+title: "Rust #3: 코드 따라하기(2/2) - 3장 일반적인 프로그래밍 개념"
+datePublished: Thu Jul 15 2021 07:44:58 GMT+0000 (Coordinated Universal Time)
+cuid: ckr4lxd8b0694s1s1b30gaaf2
+slug: rust-3-22-3
+tags: rust
+
+---
 
 ## 개요
 앞에서 [2장 추측 게임 프로그램의 코드](https://doc.rust-lang.org/nightly/book/ch02-00-guessing-game-tutorial.html)를 따라 가면서 Rust 코드에 익숙해졌는데요, 오늘은 [3장 일반적인 프로그래밍 개념](https://doc.rust-lang.org/nightly/book/ch03-00-common-programming-concepts.html)의 코드를 따라가면서 Rust에 대해서 파악해보도록 합시다.
