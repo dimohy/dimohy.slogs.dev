@@ -1,4 +1,11 @@
-## Rust #10 : 10장 제네릭 타입, 트레잇, 수명
+---
+title: "Rust #10 : 10장 제네릭 타입, 트레잇, 수명"
+datePublished: Thu Sep 02 2021 02:49:38 GMT+0000 (Coordinated Universal Time)
+cuid: ckt2byazu098l3js1byfv1mpo
+slug: rust-10-10
+tags: rust
+
+---
 
 ## 개요
 중복된 로직을 줄이기 위한 도구로 제네릭을 설명합니다. 제네릭을 이용하면 유형에 상관없이 동일한 로직을 적용할 수 있습니다.
