@@ -1,4 +1,11 @@
-## 느낌과 실제의 괴리
+---
+title: "느낌과 실제의 괴리"
+datePublished: Thu Jul 15 2021 00:41:34 GMT+0000 (Coordinated Universal Time)
+cuid: ckr46svbx03ect5s12hjthu01
+slug: feel-or-able
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/HHtzGcZkRZY/upload/v1646028313864/NLrniLHHrc.jpeg
+
+---
 
 이번시간에도 컴퓨터와 직접적인 내용은 아니지만, 삶에서 어떤 기술을 습득하는데 공통적으로 알아야만 하는 내용이기 때문에 글을 써봅니다.
 
