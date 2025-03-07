@@ -1,4 +1,11 @@
-# Optimizing for multiple deletions in a large list
+---
+title: "Optimizing for multiple deletions in a large list"
+datePublished: Thu Mar 02 2023 07:29:06 GMT+0000 (Coordinated Universal Time)
+cuid: cleqsct9n000709lcano62dhh
+slug: optimizing-for-multiple-deletions-in-a-large-list
+tags: csharp
+
+---
 
 The implementation of `List<T>` is optimized for looking up and adding items, so it doesn't perform as well as you might think when a large number of items are deleted from a list of hundreds of thousands.
 
