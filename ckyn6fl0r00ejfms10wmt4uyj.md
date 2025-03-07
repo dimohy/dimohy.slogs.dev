@@ -1,4 +1,12 @@
-## [WinUI 3] 앱 내 도구모음을 감추는 방법
+---
+title: "[WinUI 3] 앱 내 도구모음을 감추는 방법"
+datePublished: Thu Jan 20 2022 16:16:47 GMT+0000 (Coordinated Universal Time)
+cuid: ckyn6fl0r00ejfms10wmt4uyj
+slug: winui-3-1-hide-live-toolbar
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1642695282972/h_6_MMlyi.png
+tags: dotnet, winui3
+
+---
 
 WinUI 3에서는 디버그 시 도구모음이 아래 빨강 영역의 타이틀바에 붙지 않고 본문 영역에 붙습니다.
 
