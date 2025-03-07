@@ -1,4 +1,11 @@
-# [WinUI] ToggleSwitch에 Command 속성 추가
+---
+title: "[WinUI] ToggleSwitch에 Command 속성 추가"
+datePublished: Wed Dec 28 2022 05:54:50 GMT+0000 (Coordinated Universal Time)
+cuid: clc78t2g3000708jv4vpaetqu
+slug: winui-toggleswitch-command
+tags: dotnet, winui3
+
+---
 
 UWP 및 WinUI 3의 \[ToggleSwitch\]([https://learn.microsoft.com/en-us/uwp/api/windows.ui.xaml.controls.toggleswitch?view=winrt-22621](https://learn.microsoft.com/en-us/uwp/api/windows.ui.xaml.controls.toggleswitch?view=winrt-22621)) 컨트롤은 특이하게도 `Command` 속성이 없습니다. MVVM에서 사용하기 위해서는 `CanExecute()` 에 따라 컨트롤을 활성화/비활성화 할 필요가 있습니다.
 
