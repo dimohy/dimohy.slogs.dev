@@ -1,4 +1,12 @@
-## C# 10의 새로운 기능 정리
+---
+title: "C# 10의 새로운 기능 정리"
+datePublished: Fri Nov 12 2021 18:34:46 GMT+0000 (Coordinated Universal Time)
+cuid: ckvwpznay03s20ks1a2zw08p9
+slug: c-10
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1636767510430/vJ4lMTebN.png
+tags: csharp
+
+---
 
 ## 개요
 
