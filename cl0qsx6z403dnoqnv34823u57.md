@@ -1,4 +1,12 @@
-## 소스 생성기 만들기 6부 - 소스 제어에 소스 생성기 출력 저장
+---
+title: "소스 생성기 만들기 6부 - 소스 제어에 소스 생성기 출력 저장"
+datePublished: Mon Mar 14 2022 14:29:04 GMT+0000 (Coordinated Universal Time)
+cuid: cl0qsx6z403dnoqnv34823u57
+slug: creating-a-source-generator-part-6-saving-source-generator-output-in-source-control
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1647267108514/XQdrpAHQo.png
+tags: dotnet
+
+---
 
 > **이 글은 Andrew Lock님의 [소스 생성기 만들기](https://andrewlock.net/series/creating-a-source-generator/) 연재를 번역한 글입니다.**
 
