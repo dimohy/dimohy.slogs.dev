@@ -1,4 +1,11 @@
-## Fusion 튜토리얼 - 4부: Replica 서비스
+---
+title: "Fusion 튜토리얼 - 4부: Replica 서비스"
+datePublished: Sun Jul 31 2022 15:25:20 GMT+0000 (Coordinated Universal Time)
+cuid: cl69h4zau0arqy6nvg45khqcv
+slug: fusion-4-replica
+tags: dotnet, stlfusion
+
+---
 
 > 본 글은 [Stl.Fusion](https://github.com/servicetitan/Stl.Fusion)의 튜토리얼 [Part 4: Replica Services](https://github.com/servicetitan/Stl.Fusion.Samples/blob/master/docs/tutorial/Part04.md) 문서를 번역한 것입니다.
 
