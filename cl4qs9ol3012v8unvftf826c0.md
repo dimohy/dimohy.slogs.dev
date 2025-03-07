@@ -1,4 +1,11 @@
-## TypeScript 배우기 - 1. 시작
+---
+title: "TypeScript 배우기 - 1. 시작"
+datePublished: Thu Jun 23 2022 08:49:36 GMT+0000 (Coordinated Universal Time)
+cuid: cl4qs9ol3012v8unvftf826c0
+slug: typescript-1
+tags: typescript
+
+---
 
 TypeScript 홈페이지에서 제공하는 [TypeScript 핸드북](https://www.typescriptlang.org/ko/docs/handbook/intro.html)을 통해 타입스크립트를 같이 배우도록 합시다.
 
