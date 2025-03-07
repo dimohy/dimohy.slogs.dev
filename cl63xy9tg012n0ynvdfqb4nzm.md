@@ -1,4 +1,12 @@
-## TypeScript로 canvas에 원 움직이기
+---
+title: "TypeScript로 canvas에 원 움직이기"
+datePublished: Wed Jul 27 2022 18:29:24 GMT+0000 (Coordinated Universal Time)
+cuid: cl63xy9tg012n0ynvdfqb4nzm
+slug: typescript-canvas
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1658946633301/Qgjm9JZC2.png
+tags: typescript, html-canvas, simple, vscode
+
+---
 
 TypeScript를 이용해 canvas에 원을 움직이는 예제를 만들어 보겠습니다.
 
