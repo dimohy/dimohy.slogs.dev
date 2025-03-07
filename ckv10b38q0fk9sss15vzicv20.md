@@ -1,4 +1,11 @@
-## Rust #17: 17장 Rust의 객체지향 프로그래밍 기능
+---
+title: "Rust #17: 17장 Rust의 객체지향 프로그래밍 기능"
+datePublished: Thu Oct 21 2021 13:55:17 GMT+0000 (Coordinated Universal Time)
+cuid: ckv10b38q0fk9sss15vzicv20
+slug: rust-17-17-rust
+tags: rust
+
+---
 
 ## 개요
 Rust는 객체 지향 프로그래밍의 일부 정의에서는 객체 지향으로 분류하지만 다른 정의는 그렇지 않습니다. 이 장에서는 객체 지향으로 간주하는 특정 특성과 이것을 이용해서 관용적 Rust로 변환되는 방식을 알아볼 것입니다. 그런 다음 Rust에서 객체 지향 디자인 패턴을 구현하는 방법에 대해 보여주고 Rust의 장점을 이용해서 구현하는 방식의 장단점에 대해 논의하겠습니다.
