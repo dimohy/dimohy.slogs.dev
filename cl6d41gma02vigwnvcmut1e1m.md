@@ -1,4 +1,11 @@
-## TypeScript 배우기 - 7. 제네릭
+---
+title: "TypeScript 배우기 - 7. 제네릭"
+datePublished: Wed Aug 03 2022 04:29:46 GMT+0000 (Coordinated Universal Time)
+cuid: cl6d41gma02vigwnvcmut1e1m
+slug: typescript-7
+tags: typescript
+
+---
 
 > 본 글은 TypeScript 핸드북 [Type Manipulation / Generics](https://www.typescriptlang.org/docs/handbook/2/generics.html)의 내용을 정리한 글입니다.
 
