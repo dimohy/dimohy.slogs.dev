@@ -1,4 +1,11 @@
-## Rust #16: 16장 두려움 없는 동시성
+---
+title: "Rust #16: 16장 두려움 없는 동시성"
+datePublished: Wed Oct 13 2021 01:36:40 GMT+0000 (Coordinated Universal Time)
+cuid: ckuoueenk13akebs1bi8u8rt4
+slug: rust-16-16
+tags: rust
+
+---
 
 ## 개요
 
