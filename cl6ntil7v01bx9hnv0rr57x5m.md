@@ -1,4 +1,11 @@
-## TypeScript 배우기 - 11. 조건부 타입
+---
+title: "TypeScript 배우기 - 11. 조건부 타입"
+datePublished: Wed Aug 10 2022 16:20:38 GMT+0000 (Coordinated Universal Time)
+cuid: cl6ntil7v01bx9hnv0rr57x5m
+slug: typescript-11
+tags: typescript
+
+---
 
 조건부 타입은 입력 타입과 출력 타입간의 관계를 설명하는데 도움이 됩니다. 다음은 핸드북에 나온 예제 입니다.
 
