@@ -1,4 +1,12 @@
-## [윈폼] 디자인패턴을 이용한 Dll 동적 로딩
+---
+title: "[윈폼] 디자인패턴을 이용한 Dll 동적 로딩"
+datePublished: Sun Feb 13 2022 07:25:53 GMT+0000 (Coordinated Universal Time)
+cuid: ckzky1ag30i4zeks1d9eu38fg
+slug: winforms-dll
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1644736977523/hv7dYWy36.png
+tags: desktop, windows, dotnet, winforms
+
+---
 
 # 디자인패턴을 이용한 DLL 동적 로딩
 이번 글에서는 `디자인패턴을 이용해 DLL을 동적 로딩`하는 방법을 알아보고자 합니다.
