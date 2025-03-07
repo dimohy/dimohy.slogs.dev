@@ -1,4 +1,11 @@
-## Blazor를 사용하여 상황에 맞는 경험 구축 (번역)
+---
+title: "Blazor를 사용하여 상황에 맞는 경험 구축 (번역)"
+datePublished: Sun Jun 13 2021 04:43:17 GMT+0000 (Coordinated Universal Time)
+cuid: ckpupcn5z04kh0ms19vht540e
+slug: building-contextual-experiences-wblazor
+tags: dotnet, blazor-1
+
+---
 
 안녕! 내 이름은 Hassan Habib이고 Microsoft의 선임 엔지니어링 매니저 입니다. 이것은 ASP.NET 팀 블로그의 내 첫번째 블로그 입니다. [내 OData 게시물](https://devblogs.microsoft.com/odata/author/harezk/)에서 나를 알 수 있습니다. 몇 주 전에 [Daniel Roth](https://devblogs.microsoft.com/aspnet/author/danroth27/)에게 연락하여 Microsoft 엔지니어가 Microsoft 제품을 사용하여 자체 시스템을 구축하는 방법을 공유하는 것이 좋을지 궁금해 했습니다. 이것은 우리가 "Microsoft에서 Microsoft를 실행"이라고 부르는 작은 것입니다. Daniel은 적극적으로 지원했고 우리는 이를 가능하게 하기 위해 함께 노력했으며 그 점에 대해 매우 감사합니다.
 
