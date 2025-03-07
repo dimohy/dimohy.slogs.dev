@@ -1,4 +1,12 @@
-## .NET Core 탐색 1부 - .NET 6의 ConfigurationManager 내부 보기
+---
+title: ".NET Core 탐색 1부 - .NET 6의 ConfigurationManager 내부 보기"
+datePublished: Mon Nov 22 2021 08:44:14 GMT+0000 (Coordinated Universal Time)
+cuid: ckwafac8c0nkse7s1h03m69e0
+slug: net-core-1-net-6-configurationmanager
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1637233840872/ruKU0vWYO.png
+tags: dotnet
+
+---
 
 ***본 시리즈는 Andrew Lock 님의 [.NET Core 6 탐색](https://andrewlock.net/series/exploring-dotnet-6/) 연재를 번역한 것입니다.***
 
