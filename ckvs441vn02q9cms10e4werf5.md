@@ -1,4 +1,11 @@
-## Rust #20: 20장 최종 프로젝트: 멀티스레드 웹 서버 구축
+---
+title: "Rust #20: 20장 최종 프로젝트: 멀티스레드 웹 서버 구축"
+datePublished: Tue Nov 09 2021 13:11:34 GMT+0000 (Coordinated Universal Time)
+cuid: ckvs441vn02q9cms10e4werf5
+slug: rust-20-20
+tags: rust
+
+---
 
 ## 개요
 
