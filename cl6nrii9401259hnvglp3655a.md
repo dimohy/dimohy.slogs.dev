@@ -1,4 +1,11 @@
-## TypeScript 배우기 - 10. 인덱싱 엑세스 타입
+---
+title: "TypeScript 배우기 - 10. 인덱싱 엑세스 타입"
+datePublished: Wed Aug 10 2022 15:24:35 GMT+0000 (Coordinated Universal Time)
+cuid: cl6nrii9401259hnvglp3655a
+slug: typescript-10
+tags: typescript
+
+---
 
 인덱싱된 엑세스 타입을 사용하면 다른 타입의 특정 속성을 조회해서 그 타입을 취할 수 있습니다.
 
