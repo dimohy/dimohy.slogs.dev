@@ -1,4 +1,10 @@
-## 시작하는 분에게 권하는 프로그래밍 잘 하는 법
+---
+title: "시작하는 분에게 권하는 프로그래밍 잘 하는 법"
+datePublished: Wed Aug 18 2021 01:32:51 GMT+0000 (Coordinated Universal Time)
+cuid: cksgtls9b07651is1a4aue1ey
+slug: beginner-good-at-programming
+
+---
 
 ## 개요
 이 글은 다음의 분을 위해 작성하였습니다.
