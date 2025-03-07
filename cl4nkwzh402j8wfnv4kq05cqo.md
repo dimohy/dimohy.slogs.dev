@@ -1,4 +1,11 @@
-## EF Core 6 배우기 - 4. 마이그레이션
+---
+title: "EF Core 6 배우기 - 4. 마이그레이션"
+datePublished: Tue Jun 21 2022 03:00:28 GMT+0000 (Coordinated Universal Time)
+cuid: cl4nkwzh402j8wfnv4kq05cqo
+slug: ef-core-6-4
+tags: dotnet, efcore
+
+---
 
 데이터 모델은 기능이 구현됨에 따라 계속해서 변화됩니다. 새로운 엔터티가 추가되거나 속성이 추가, 변경 및 제거 되고 엔터티가 변경됨에 따라 애플리케이션과 동기화 되어야 할 데이터베이스 스키마 역시 변경되어야 합니다. EF Core에서는 마이그레이션 기능을 제공해서 데이터 모델의 변경을 추적해서 관리할 수 있고 변경된 내용을 데이터베이스 스키마와 동기화 하는 기능을 제공 합니다.
 
