@@ -1,4 +1,12 @@
-## 부분 메서드(partial method) 사용해보기
+---
+title: "부분 메서드(partial method) 사용해보기"
+datePublished: Wed Dec 01 2021 02:38:59 GMT+0000 (Coordinated Universal Time)
+cuid: ckwmx7a7804ax2ds1fky97aj3
+slug: partial-method
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1640841302232/7gClIlL_c.png
+tags: csharp
+
+---
 
 C#은 [부분 메서드(partial method)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/partial-method)를 지원합니다. `partial class`의 경우 UI의 코드를 자동 생성해주는 WinForms나 WPF에서 이미 사용하는 방법인데요, 부분 메서드(partial method)는 좀 낯섭니다.
 
