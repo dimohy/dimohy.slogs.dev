@@ -1,4 +1,12 @@
-## Visual Studio 2022에 Uno 플랫폼 개발 환경 구성
+---
+title: "Visual Studio 2022에 Uno 플랫폼 개발 환경 구성"
+datePublished: Thu Apr 28 2022 03:17:13 GMT+0000 (Coordinated Universal Time)
+cuid: cl2ifqirr029larnv74fq01sk
+slug: visual-studio-2022-uno
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651112889662/KPNPMCUYy.png
+tags: dotnet, unoplatform
+
+---
 
 [Uno 플랫폼](https://platform.uno/)은 Pixel-Perfect을 지향하는 .NET 멀티 플랫폼 용 UI 오픈소스 플랫폼입니다.
 
