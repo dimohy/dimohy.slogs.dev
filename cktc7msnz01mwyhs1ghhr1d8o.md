@@ -1,4 +1,11 @@
-## Rust #11: 11장 자동화된 테스트 작성하기
+---
+title: "Rust #11: 11장 자동화된 테스트 작성하기"
+datePublished: Thu Sep 09 2021 00:46:24 GMT+0000 (Coordinated Universal Time)
+cuid: cktc7msnz01mwyhs1ghhr1d8o
+slug: rust-11-11
+tags: rust
+
+---
 
 ## 개요
 테스트는 작성된 코드가 의도한 대로 동작하는지 확인하는 작업입니다. Rust는 주석 및 매크로, 테스트 시행을 위해 제공되는 기본 동작 및 옵션, 단위 테스트 및 통합 테스트로 구성하는 방법을 제공합니다.
