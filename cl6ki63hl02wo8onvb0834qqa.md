@@ -1,4 +1,11 @@
-## Fusion 튜토리얼 - 9부: CommandR
+---
+title: "Fusion 튜토리얼 - 9부: CommandR"
+datePublished: Mon Aug 08 2022 08:39:40 GMT+0000 (Coordinated Universal Time)
+cuid: cl6ki63hl02wo8onvb0834qqa
+slug: fusion-9-commandr
+tags: dotnet, stlfusion
+
+---
 
 [Stl.CommandR](https://www.nuget.org/packages/Stl.CommandR/)은 CQRS 스타일의 명령 처리기를 구현하는 데 도움이 되는 MediatR과 유사한 라이브러리입니다. 다른 추상화 세트와 함께 추가 코드 없이 이전 섹션에서 설명한 파이프라인을 얻을 수 있습니다.
 
