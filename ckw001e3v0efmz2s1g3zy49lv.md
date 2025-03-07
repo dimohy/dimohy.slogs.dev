@@ -1,4 +1,12 @@
-## .NET Foundation 프로젝트 소개(1): Verify
+---
+title: ".NET Foundation 프로젝트 소개(1): Verify"
+datePublished: Mon Nov 15 2021 01:39:41 GMT+0000 (Coordinated Universal Time)
+cuid: ckw001e3v0efmz2s1g3zy49lv
+slug: net-foundation-1-verify
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1636940629539/THJzyb_xL.jpeg
+tags: dotnet
+
+---
 
 여러분의 시간을 아낄 수 있는 .NET Foundation의 유용한 프로젝트 소개를 소개하는 시간입니다.
 
