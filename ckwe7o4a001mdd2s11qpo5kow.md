@@ -1,4 +1,12 @@
-## .NET Foundation 프로젝트 소개(2): AngleSharp
+---
+title: ".NET Foundation 프로젝트 소개(2): AngleSharp"
+datePublished: Thu Nov 25 2021 00:22:05 GMT+0000 (Coordinated Universal Time)
+cuid: ckwe7o4a001mdd2s11qpo5kow
+slug: net-foundation-2-anglesharp
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1637799781303/uPGSN2xT5.jpeg
+tags: dotnet
+
+---
 
 여러분의 시간을 아낄 수 있는 .NET Foundation의 유용한 프로젝트를 소개하는 시간입니다.
 
