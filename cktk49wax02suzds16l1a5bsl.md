@@ -1,4 +1,11 @@
-## Rust #12: 12장 I/O 프로젝트: 명령줄 프로그램 구축
+---
+title: "Rust #12: 12장 I/O 프로젝트: 명령줄 프로그램 구축"
+datePublished: Tue Sep 14 2021 13:34:33 GMT+0000 (Coordinated Universal Time)
+cuid: cktk49wax02suzds16l1a5bsl
+slug: rust-12-12-io
+tags: rust
+
+---
 
 ## 개요
 본 장을 통해 지금까지 배운 기술을 적용하고 몇 가지 표준 라이브러리 기능을 활용 할 것입니다. 진행 과정을 통해 점진적으로 모듈화가 되어가는 것을 같이 체험할 수 있으며, 테스트 주도 개발이 무엇인지도 맛보기로 체험할 수 있습니다.
