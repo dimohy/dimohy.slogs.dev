@@ -1,4 +1,12 @@
-## [윈폼] 지역화 기능을 이용한 다국어 지원하기
+---
+title: "[윈폼] 지역화 기능을 이용한 다국어 지원하기"
+datePublished: Wed Feb 16 2022 03:14:36 GMT+0000 (Coordinated Universal Time)
+cuid: ckzozdo3w07nrr4s140fd3mfo
+slug: winforms-localizing
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1644980952773/aOM20GfuV.png
+tags: desktop, windows, dotnet, winforms
+
+---
 
 # 지역화 기능을 이용한 다국어 지원하기
 Windows Forms에서 제공하는 폼 기반 리소스를 이용화면 화면에 보이는 텍스트 및 각종 리소스를 언어 별로 별도 처리 할 수 있게 됩니다.
