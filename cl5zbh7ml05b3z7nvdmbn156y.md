@@ -1,4 +1,11 @@
-## Stl.Fusion 개요, HelloBlazorServer 샘플 분석
+---
+title: "Stl.Fusion 개요, HelloBlazorServer 샘플 분석"
+datePublished: Sun Jul 24 2022 12:49:12 GMT+0000 (Coordinated Universal Time)
+cuid: cl5zbh7ml05b3z7nvdmbn156y
+slug: stlfusion-helloblazorserver
+tags: dotnet, blazor, stlfusion
+
+---
 
 [Stl.Fusion](https://github.com/servicetitan/Stl.Fusion)은 실시간 업데이트를 위한 구현 코드를 1% 미만의 추가 코드로 실시간 앱을 만들 수 있도록 도와주는 라이브러리이다.
 
