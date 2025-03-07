@@ -1,4 +1,11 @@
-## Fusion 치트 시트
+---
+title: "Fusion 치트 시트"
+datePublished: Mon Aug 08 2022 02:42:50 GMT+0000 (Coordinated Universal Time)
+cuid: cl6k5f6rh0dd1xvnv22gr7vjv
+slug: fusion-cheat-sheet
+tags: dotnet, stlfusion
+
+---
 
 ## 컴퓨팅(Compute) 서비스
 
