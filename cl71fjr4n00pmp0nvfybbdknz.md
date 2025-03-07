@@ -1,4 +1,11 @@
-## TypeScript 배우기 - 15. 모듈
+---
+title: "TypeScript 배우기 - 15. 모듈"
+datePublished: Sat Aug 20 2022 04:58:24 GMT+0000 (Coordinated Universal Time)
+cuid: cl71fjr4n00pmp0nvfybbdknz
+slug: typescript-15
+tags: typescript
+
+---
 
 오늘은 TypeScript의 모듈 시스템을 핸드북의 내용을 통해 살펴볼 것입니다.
 
