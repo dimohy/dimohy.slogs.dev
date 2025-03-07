@@ -1,4 +1,11 @@
-## Rust #2: 코드 따라하기(1/2) - 2장 추측 게임 프로그래밍
+---
+title: "Rust #2: 코드 따라하기(1/2) - 2장 추측 게임 프로그래밍"
+datePublished: Wed Jul 14 2021 13:49:58 GMT+0000 (Coordinated Universal Time)
+cuid: ckr3jiwty01q6v8s12eh5bs3p
+slug: rust-2-12-2
+tags: rust
+
+---
 
 ## 개요
 러스트 홈페이지에서 제공하는 [The Rust Programming Language 온라인 북](https://doc.rust-lang.org/nightly/book/title-page.html)에 나와 있는 코드를 따라 해보면서 Rust의 특징을 파악하고 손에 익히도록 합니다.
