@@ -1,4 +1,13 @@
-## [WinUI 3] Creating WinUI 3 App that supports themes including titlebar
+---
+title: "[WinUI 3] Creating WinUI 3 App that supports themes including titlebar"
+seoTitle: "Creating WinUI 3 App that supports themes including titlebar"
+seoDescription: "Creating WinUI 3 App that supports themes including titlebar"
+datePublished: Mon Oct 11 2021 03:08:14 GMT+0000 (Coordinated Universal Time)
+cuid: ckum2sgej0hiyebs176hrhxax
+slug: winui-3-creating-winui-3-app-that-supports-themes-including-titlebar
+tags: desktop, windows, dotnet, winui3
+
+---
 
 ## Summary
 
