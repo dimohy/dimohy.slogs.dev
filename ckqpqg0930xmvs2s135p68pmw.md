@@ -1,4 +1,11 @@
-## [C# 10] global using : 좀 더 간결한 예시 코드 언어로 진화
+---
+title: "[C# 10] global using : 좀 더 간결한 예시 코드 언어로 진화"
+datePublished: Sun Jul 04 2021 21:54:53 GMT+0000 (Coordinated Universal Time)
+cuid: ckqpqg0930xmvs2s135p68pmw
+slug: c-10-global-using
+tags: csharp
+
+---
 
 `global using`은 프로젝트 범위 안에서 공통으로 사용하는 대상을 using할 수 있습니다. 개인적인 생각은 C# 9에서 추가된 [최상위문(top-level statement)](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/tutorials/top-level-statements)과 더불어서 간결한 예시 코드를 제공하고 실행할 수 있도록 하는 문법적 진화라고 생각합니다. 가령,
 
