@@ -1,4 +1,11 @@
-## Rust #19: 19장 고급 기능
+---
+title: "Rust #19: 19장 고급 기능"
+datePublished: Thu Nov 04 2021 11:45:29 GMT+0000 (Coordinated Universal Time)
+cuid: ckvkvu2yn0c3uazs1gusva3zp
+slug: rust-19-19
+tags: rust
+
+---
 
 ## 개요
 이번 장은 다음의 Rust 고급 기술에 대해 설명합니다.
