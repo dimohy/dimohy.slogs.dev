@@ -1,4 +1,11 @@
-## Rust #13: 13장 함수형 언어의 특징: 반복자와 클로저
+---
+title: "Rust #13: 13장 함수형 언어의 특징: 반복자와 클로저"
+datePublished: Thu Sep 23 2021 02:38:09 GMT+0000 (Coordinated Universal Time)
+cuid: cktwbsfb108jj3gs10lo7apqg
+slug: rust-13-13
+tags: rust
+
+---
 
 ## 개요
 본 장에서는 Rust가 가지고 있는 함수형 언어의 기능인 반복자와 클로저에 대해 알아볼 것입니다. 본 장은 다음의 순서로 진행합니다.
