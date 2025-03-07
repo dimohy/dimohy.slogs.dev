@@ -1,4 +1,12 @@
-## .NET Foundation 프로젝트 소개(4): Avalonia
+---
+title: ".NET Foundation 프로젝트 소개(4): Avalonia"
+datePublished: Sat Dec 04 2021 00:28:35 GMT+0000 (Coordinated Universal Time)
+cuid: ckwr2v55300pqu3s11g12fkko
+slug: net-foundation-4-avalonia
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1640841219104/iv-HJ5CUQ.png
+tags: dotnet
+
+---
 
 여러분의 시간을 아낄 수 있는 .NET Foundation에서 후원하는 유용한 프로젝트를 소개하는 시간입니다.
 
