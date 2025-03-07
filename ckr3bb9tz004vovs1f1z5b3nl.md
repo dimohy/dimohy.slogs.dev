@@ -1,4 +1,11 @@
-## Rust #1: Rust 개발환경 구성
+---
+title: "Rust #1: Rust 개발환경 구성"
+datePublished: Wed Jul 14 2021 10:00:05 GMT+0000 (Coordinated Universal Time)
+cuid: ckr3bb9tz004vovs1f1z5b3nl
+slug: rust-creating-devenv
+tags: rust
+
+---
 
 ## 개요
 저는 C# 언어를 주로 사용하고 있고 저급레벨을 다룰 수 있는 C++를 대체할 언어를 찾다가 Rust를 접하게 되었습니다. 사실, Go를 공부할까 Rust를 공부할까 시간 좀 걸렸는데요, 문법적인 익숙함은 Go가 더 친숙해 보였고 유용하게 사용하고 있는 오른소스 웹 서버인 [Caddy](https://caddyserver.com/)가 Go언어로 만들어졌다는데 있었습니다. Rust는 Webassembly에서 가장 활용되는 언어로 [소개](https://blog.scottlogic.com/2021/06/21/state-of-wasm.html?utm_source=thenewstack&utm_medium=website&utm_campaign=platform)되어 있다는데 있는데요, 고민끝에 Rust를 선택했습니다.
