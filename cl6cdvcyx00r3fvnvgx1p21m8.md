@@ -1,4 +1,11 @@
-## [Stl.Fusion] Replica 서비스 (feat. HelloBlazorHybrid)
+---
+title: "[Stl.Fusion] Replica 서비스 (feat. HelloBlazorHybrid)"
+datePublished: Tue Aug 02 2022 16:17:12 GMT+0000 (Coordinated Universal Time)
+cuid: cl6cdvcyx00r3fvnvgx1p21m8
+slug: stlfusion-replica-feat-helloblazorhybrid
+tags: dotnet, stlfusion
+
+---
 
 [Stl.Fusion](https://github.com/servicetitan/Stl.Fusion)(이하 `Fusion`)은 실시간성 앱을 효율적으로 만들 수 있는 환경을 제공해주는 라이브러리입니다.
 
