@@ -1,4 +1,11 @@
-## TypeScript 배우기 - 14. 클래스
+---
+title: "TypeScript 배우기 - 14. 클래스"
+datePublished: Sun Aug 21 2022 17:07:55 GMT+0000 (Coordinated Universal Time)
+cuid: cl73l1sjk00od6rnv1qu61k31
+slug: typescript-14
+tags: typescript
+
+---
 
 > 본 장은 핸드북의 [Classes](https://www.typescriptlang.org/docs/handbook/2/classes.html)의 내용을 최대한 간결하게 정리하고 보완하는 것을 목표로 작성했습니다.
 
