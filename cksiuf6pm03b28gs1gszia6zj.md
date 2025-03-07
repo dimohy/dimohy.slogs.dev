@@ -1,4 +1,11 @@
-## Rust #8: 8장 공통 컬렉션
+---
+title: "Rust #8: 8장 공통 컬렉션"
+datePublished: Thu Aug 19 2021 11:31:15 GMT+0000 (Coordinated Universal Time)
+cuid: cksiuf6pm03b28gs1gszia6zj
+slug: rust-8-8
+tags: rust
+
+---
 
 ## 개요
 이 장은 Rust에서 대표적으로 사용하는 벡터(Vector, Vec<T>), 문자열(String), 해시맵(Hash Map, HashMap<K, V>)을 통해 Rust에서 제공하는 컬렉션에 대해 이해하는 시간을 갖도록 합시다.
