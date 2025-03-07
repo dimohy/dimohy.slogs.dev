@@ -1,4 +1,13 @@
-## 믿음이란? - 하나님을 믿는 믿음
+---
+title: "믿음이란? - 하나님을 믿는 믿음"
+seoTitle: "믿음이란? - 하나님을 믿는 믿음"
+seoDescription: "이 글은 일반인이 하나님이 역사하는 원리를 이해할 수 있도록 쓰였습니다. 더불어서 믿는 사람도 원리적으로 좀 더 접근할 수 있도록 하였습니다."
+datePublished: Fri Jan 07 2022 08:05:57 GMT+0000 (Coordinated Universal Time)
+cuid: cky4469zh05fergs10xcj1a05
+slug: faith
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/EAvS-4KnGrk/upload/v1646028252975/W8PezWW7O.jpeg
+
+---
 
 믿음의 사전적 의미는 다음과 같습니다.
 
