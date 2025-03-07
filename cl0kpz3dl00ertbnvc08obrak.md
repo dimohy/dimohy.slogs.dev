@@ -1,4 +1,11 @@
-## 소스 생성기 만들기 5부 - 유형 선언의 네임스페이스 및 유형 계층 찾기
+---
+title: "소스 생성기 만들기 5부 - 유형 선언의 네임스페이스 및 유형 계층 찾기"
+datePublished: Thu Mar 10 2022 08:19:57 GMT+0000 (Coordinated Universal Time)
+cuid: cl0kpz3dl00ertbnvc08obrak
+slug: 5
+tags: dotnet
+
+---
 
 > **이 글은 Andrew Lock님의 [소스 생성기 만들기](https://andrewlock.net/series/creating-a-source-generator/) 연재를 번역한 글입니다.**
 
