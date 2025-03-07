@@ -1,4 +1,11 @@
-## .net 생산성의 새로운 내용 알아보기 (번역)
+---
+title: ".net 생산성의 새로운 내용 알아보기 (번역)"
+datePublished: Wed Jun 09 2021 07:08:50 GMT+0000 (Coordinated Universal Time)
+cuid: ckpp4s8b5045owhs10733dk5b
+slug: learn-whats-new-in-net-productivity
+tags: visual-studio, dotnet
+
+---
 
 .NET 생산성 팀(일명 Roslyn)은 Visual Studio 2019의 최신 도구 업데이트를 통해 개발자의 생산성을 지속적으로 향상시키고 있습니다. 지난 릴리즈에서는 귀하의 피드백을 듣고 .NET 개발자 환경을 개선하기 위해 열심히 노력했습니다. 최신 .NET 생산성 향상 기능을 사용해 보려면 [최신 Visual Studio 릴리즈를 다운로드](https://visualstudio.microsoft.com/vs/)하십시오.
 
