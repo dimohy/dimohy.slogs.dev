@@ -1,4 +1,11 @@
-## Fusion 튜토리얼 - 1부: 컴퓨팅 서비스
+---
+title: "Fusion 튜토리얼 - 1부: 컴퓨팅 서비스"
+datePublished: Mon Sep 12 2022 19:41:33 GMT+0000 (Coordinated Universal Time)
+cuid: cl7z682vj03t6fxnv46kda1pe
+slug: fusion-1
+tags: dotnet, stlfusion
+
+---
 
 이 부분을 다룬 동영상:
 
