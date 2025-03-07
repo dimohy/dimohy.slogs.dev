@@ -1,4 +1,11 @@
-# Discord 봇 만들기
+---
+title: "Discord 봇 만들기"
+datePublished: Sun Jan 29 2023 05:56:07 GMT+0000 (Coordinated Universal Time)
+cuid: cldgyxz2h000309jwhd9c9mxe
+slug: discord
+tags: dotnet
+
+---
 
 [Discord](https://discord.com/)는 게이머가 애용하는 실시간 채팅 커뮤니티 서비스로 이제는 게이밍 부터 교육과 비즈니스 영역으로 그 서비스를 확장하고 있습니다.
 
