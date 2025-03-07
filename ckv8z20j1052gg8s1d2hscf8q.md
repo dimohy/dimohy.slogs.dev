@@ -1,4 +1,11 @@
-## Rust #18: 18장 패턴과 매칭
+---
+title: "Rust #18: 18장 패턴과 매칭"
+datePublished: Wed Oct 27 2021 03:42:24 GMT+0000 (Coordinated Universal Time)
+cuid: ckv8z20j1052gg8s1d2hscf8q
+slug: rust-18-18
+tags: rust
+
+---
 
 ## 개요
 
