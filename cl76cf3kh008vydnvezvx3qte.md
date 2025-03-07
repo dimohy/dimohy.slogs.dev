@@ -1,4 +1,11 @@
-## Avalonia 프로젝트 `11.0 미리보기 1`로 변경하기
+---
+title: "Avalonia 프로젝트 `11.0 미리보기 1`로 변경하기"
+datePublished: Tue Aug 23 2022 15:29:38 GMT+0000 (Coordinated Universal Time)
+cuid: cl76cf3kh008vydnvezvx3qte
+slug: avalonia-110-1
+tags: dotnet, avalonia
+
+---
 
 Avalonia(이하 아발로니아)의 버전이 0.10에서 11.0로 높은 점프를 했습니다. 아발로니아 11.0 미리보기 1이 출시가 되었는데요 아래의 링크로 그 내용을 확인하실 수 있습니다.
 
