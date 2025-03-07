@@ -1,4 +1,12 @@
-## C# 11 기능 정리
+---
+title: "C# 11 기능 정리"
+datePublished: Wed Aug 31 2022 11:30:01 GMT+0000 (Coordinated Universal Time)
+cuid: cl7hjdqvx0ieo1unvargt6ie9
+slug: csharp11-future
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1661945723080/6nCdlBk46.png
+tags: csharp
+
+---
 
 .NET 7이 미리보기 릴리스가 종료되면서 C# 11 기능이 확정되었습니다. 이에 따라 C# 11 기능을 대해 정리합니다.
 
