@@ -1,4 +1,11 @@
-## 집중하는 법
+---
+title: "집중하는 법"
+datePublished: Mon May 24 2021 00:10:31 GMT+0000 (Coordinated Universal Time)
+cuid: ckp1usni30re3crs1el8i1pmo
+slug: focus-way
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1621813240556/Nz7KH0OyP.jpeg
+
+---
 
 우리가 무언가를 이루기 위해서는 그것에 집중 해야 합니다. 하지만 잡생각이나 걱정 등으로 인해 잘 안될때가 많은데요, 그 이유에 대해 알아보고 어떻게 해야 집중에 방해되는 요소를 줄이고 성공할 수 있는지를 이야기 해 보겠습니다.
 
