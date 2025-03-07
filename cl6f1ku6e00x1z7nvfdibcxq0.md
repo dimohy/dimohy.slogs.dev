@@ -1,4 +1,11 @@
-## Fusion 개요
+---
+title: "Fusion 개요"
+datePublished: Thu Aug 04 2022 12:56:24 GMT+0000 (Coordinated Universal Time)
+cuid: cl6f1ku6e00x1z7nvfdibcxq0
+slug: fusion-overview
+tags: dotnet, stlfusion
+
+---
 
 > 본 글은 [Stl.Fusion](https://github.com/servicetitan/Stl.Fusion)의 [Fusion Overview](https://github.com/servicetitan/Stl.Fusion/blob/master/docs/Overview.md) 문서를 번역한 것입니다.
 
