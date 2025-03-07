@@ -1,4 +1,11 @@
-## 내가 모른다는 것을 아는것
+---
+title: "내가 모른다는 것을 아는것"
+datePublished: Fri Jun 18 2021 01:22:52 GMT+0000 (Coordinated Universal Time)
+cuid: ckq1ndzdn01putys17nvqaloe
+slug: knowing-what-i-dont-know
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1623979316174/2p8PMcLPw.jpeg
+
+---
 
 이번 주제는 프로그래밍과 직접적인 관계가 없기 때문에 글을 쓸까 주저하다가 모든 배움의 **기본**이기 때문에 쓰기로 하였습니다.
 
