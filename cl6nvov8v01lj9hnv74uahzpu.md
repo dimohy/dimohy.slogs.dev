@@ -1,4 +1,11 @@
-## TypeScript 배우기 - 13. 템플릿 리터럴 타입
+---
+title: "TypeScript 배우기 - 13. 템플릿 리터럴 타입"
+datePublished: Wed Aug 10 2022 17:21:30 GMT+0000 (Coordinated Universal Time)
+cuid: cl6nvov8v01lj9hnv74uahzpu
+slug: typescript-13
+tags: typescript
+
+---
 
 핸드북 타입 조작 섹션의 마지막인 `템플릿 리터럴 타입`입니다. 템플릿 리터럴 타입은 문자열 리터럴 타입을 기반으로 유니온 타입을 통해 확장됩니다.
 
