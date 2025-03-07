@@ -1,4 +1,11 @@
-## 클린 코드 팁: 더 나은 단위 테스트를 위한 f.i.r.s.t. 약어 (번역)
+---
+title: "클린 코드 팁: 더 나은 단위 테스트를 위한 f.i.r.s.t. 약어 (번역)"
+datePublished: Thu Jul 28 2022 02:47:48 GMT+0000 (Coordinated Universal Time)
+cuid: cl64fr7dc02dp2snvfwe81d53
+slug: first
+tags: unit-testing, programming
+
+---
 
 > CODE4IT의 [Clean Code Tip: F.I.R.S.T. acronym for better unit tests](https://www.code4it.dev/cleancodetips/f-i-r-s-t-unit-tests)를 번역하여 공유합니다.
 
