@@ -1,4 +1,11 @@
-## TypeScript 배우기 - 2. 기초
+---
+title: "TypeScript 배우기 - 2. 기초"
+datePublished: Thu Jun 23 2022 15:14:20 GMT+0000 (Coordinated Universal Time)
+cuid: cl4r60giq02zi9vnv9jktg1ms
+slug: typescript-2
+tags: typescript
+
+---
 
 JavaScript는 다양한 연산을 내장하고 있습니다.
 
