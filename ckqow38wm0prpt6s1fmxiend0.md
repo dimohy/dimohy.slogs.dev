@@ -1,4 +1,11 @@
-## [C# 10] record struct : C# struct은 default 값과 비교 할 수 없나요?
+---
+title: "[C# 10] record struct : C# struct은 default 값과 비교 할 수 없나요?"
+datePublished: Sun Jul 04 2021 07:45:10 GMT+0000 (Coordinated Universal Time)
+cuid: ckqow38wm0prpt6s1fmxiend0
+slug: csharp-struct-default
+tags: csharp
+
+---
 
 다음의 코드로 확인을 해봅시다.
 
