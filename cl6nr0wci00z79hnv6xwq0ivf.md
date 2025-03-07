@@ -1,4 +1,11 @@
-## TypeScript 배우기 - 9. typeof 타입 연산자
+---
+title: "TypeScript 배우기 - 9. typeof 타입 연산자"
+datePublished: Wed Aug 10 2022 15:10:53 GMT+0000 (Coordinated Universal Time)
+cuid: cl6nr0wci00z79hnv6xwq0ivf
+slug: typescript-9-typeof
+tags: typescript
+
+---
 
 이번 시간에는 `typeof` 타입 연산자를 알아보겠습니다.
 
