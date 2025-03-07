@@ -1,4 +1,11 @@
-## 올바른 객체지향 설계 - 'solid 원칙' 이란?
+---
+title: "올바른 객체지향 설계 - 'solid 원칙' 이란?"
+datePublished: Sun Jun 27 2021 09:39:55 GMT+0000 (Coordinated Universal Time)
+cuid: ckqf03va30kdbd6s1bt6xhj9v
+slug: oriented-solid
+tags: programming, solid
+
+---
 
 객체지향 프로그래밍은 현대 프로그램 언어의 다수가 채택하고 있는 프로그래밍 개발 방법입니다. 로버트 마틴이란 분이 객체지향 프로그래밍 설계를 일관되게 할 수 있도록 2000년대 초반 5가지 원칙을 두문자어로 해서 SOLID라고 소개하였습니다. SOLID의 의미는 각각 다음과 같습니다.
 
