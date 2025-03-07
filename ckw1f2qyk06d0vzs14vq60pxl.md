@@ -1,4 +1,11 @@
-## .NET 6 에서 Serilog 설정 (번역)
+---
+title: ".NET 6 에서 Serilog 설정 (번역)"
+datePublished: Tue Nov 16 2021 01:28:25 GMT+0000 (Coordinated Universal Time)
+cuid: ckw1f2qyk06d0vzs14vq60pxl
+slug: net-6-serilog
+tags: dotnet
+
+---
 
 > 요약: [완전한 기능을 갖춘 샘플을 GitHub](https://github.com/datalust/dotnet6-serilog-example)에서 확인 할 수 있습니다.
 
