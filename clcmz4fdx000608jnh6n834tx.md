@@ -1,4 +1,11 @@
-# is  연산자를 이용해서 중복 할당하지 않고 비교문에서 사용
+---
+title: "is  연산자를 이용해서 중복 할당하지 않고 비교문에서 사용"
+datePublished: Sun Jan 08 2023 06:08:03 GMT+0000 (Coordinated Universal Time)
+cuid: clcmz4fdx000608jnh6n834tx
+slug: is
+tags: csharp
+
+---
 
 ```csharp
 var input = "15,2";
