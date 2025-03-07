@@ -1,4 +1,11 @@
-## TypeScript 배우기 - 6. 객체 유형
+---
+title: "TypeScript 배우기 - 6. 객체 유형"
+datePublished: Wed Jul 20 2022 03:20:55 GMT+0000 (Coordinated Universal Time)
+cuid: cl5t1ezza06j0onnvcsf878tg
+slug: typescript-6
+tags: typescript
+
+---
 
 JavaScript는 데이터를 그룹화 해서 전달할 수 있는 수단으로 객체 유형을 제공합니다. 앞에서 살펴 본 것처럼 다음의 무명 형태로 표현할 수 있습니다.
 
