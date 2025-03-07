@@ -1,4 +1,11 @@
-## EF Core 6 배우기 - 6. 로깅
+---
+title: "EF Core 6 배우기 - 6. 로깅"
+datePublished: Sun Jul 03 2022 10:57:14 GMT+0000 (Coordinated Universal Time)
+cuid: cl5578bu40eaaconv8p2thvpd
+slug: ef-core-6-6
+tags: dotnet, efcore
+
+---
 
 EF Core는 다양한 로깅 방법을 제공합니다.
 
