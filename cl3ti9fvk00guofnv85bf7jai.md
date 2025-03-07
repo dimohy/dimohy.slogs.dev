@@ -1,4 +1,11 @@
-## EF Core 6 배우기 - 2. 엔터티
+---
+title: "EF Core 6 배우기 - 2. 엔터티"
+datePublished: Tue May 31 2022 01:53:05 GMT+0000 (Coordinated Universal Time)
+cuid: cl3ti9fvk00guofnv85bf7jai
+slug: ef-core-6-2
+tags: dotnet, efcore
+
+---
 
 EF Core는 엔터티 클래스로 ORM의 규칙을 적용해 모델을 작성합니다. 규칙은 특성을 통해 부여하거나 EF Core에서 약속한 구성으로 만들 수 있습니다. 또한 DB 컨텍스트에서 Fluent API 방식으로 규칙을 정의할 수도 있습니다.
 
