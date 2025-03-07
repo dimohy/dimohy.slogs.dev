@@ -1,4 +1,11 @@
-## TypeScript 배우기 - 5. 함수에 대한 추가 정보
+---
+title: "TypeScript 배우기 - 5. 함수에 대한 추가 정보"
+datePublished: Thu Jul 14 2022 05:01:49 GMT+0000 (Coordinated Universal Time)
+cuid: cl5kkdmqf02q49rnv0dn92c6o
+slug: typescript-5
+tags: typescript
+
+---
 
 오늘은 핸드북의 `More On Functions`을 같이 살펴보겠습니다.
 
