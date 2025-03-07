@@ -1,4 +1,12 @@
-## Ngrok로 외부에서 로컬 웹서버에 접근
+---
+title: "Ngrok로 외부에서 로컬 웹서버에 접근"
+datePublished: Thu Jan 27 2022 04:40:26 GMT+0000 (Coordinated Universal Time)
+cuid: ckywhn16b0wjn2vs15qki7b7e
+slug: ngrok
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1643257790467/53nS-k4t-.png
+tags: programming
+
+---
 
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1643257429533/bFKV8yTqz.png)
