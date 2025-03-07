@@ -1,4 +1,15 @@
-## [WinUI 3] 타이틀바를 포함한 테마를 지원하는 WinUI 3 만들기
+---
+title: "[WinUI 3] 타이틀바를 포함한 테마를 지원하는 WinUI 3 만들기"
+seoTitle: "WinUI 3"
+seoDescription: "WinUI 3에서 타이틀바에 테마를 적용합니다.
+
+Apply a theme to the title bar in WinUI 3."
+datePublished: Mon Oct 11 2021 02:53:22 GMT+0000 (Coordinated Universal Time)
+cuid: ckum29bq80hgoebs1817xf23r
+slug: winui-3-winui-3
+tags: desktop, windows, dotnet, winui3
+
+---
 
 ## 개요
 `WinUI 3`은 윈도의 테마와 연계된 테마 시스템을 제공합니다. WinUI 3에서 제공하는 테마 기능과 함께 타이틀바도 테마에 맞게 색을 조정하는 방법을 알아봅시다.
