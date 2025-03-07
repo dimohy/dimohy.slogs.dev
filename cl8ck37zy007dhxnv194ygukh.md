@@ -1,4 +1,11 @@
-## Stl.Fusion으로 간단한 실시간 채팅 프로그램 만들기
+---
+title: "Stl.Fusion으로 간단한 실시간 채팅 프로그램 만들기"
+datePublished: Thu Sep 22 2022 04:30:41 GMT+0000 (Coordinated Universal Time)
+cuid: cl8ck37zy007dhxnv194ygukh
+slug: create-a-live-chat-program-with-stlfusion
+tags: dotnet, stlfusion
+
+---
 
 # FusionChat
 
