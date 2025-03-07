@@ -1,4 +1,12 @@
-## WinUI 3 소개
+---
+title: "WinUI 3 소개"
+datePublished: Tue Jul 27 2021 11:38:03 GMT+0000 (Coordinated Universal Time)
+cuid: ckrlzjbx50fx6fes19xcmhn11
+slug: winui-3
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1627457412836/0LAaZDj4m.png
+tags: desktop, windows, dotnet, winui3
+
+---
 
 ## 목차
 
