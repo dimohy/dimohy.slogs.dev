@@ -1,4 +1,11 @@
-# 대량의 목록에서 다수의 삭제가 필요한 경우 최적화
+---
+title: "대량의 목록에서 다수의 삭제가 필요한 경우 최적화"
+datePublished: Thu Mar 02 2023 07:23:04 GMT+0000 (Coordinated Universal Time)
+cuid: cleqs523u000409ii1dqz8ufy
+slug: 64ya65j7j2yiouqqeuhneyxkoyencdri6tsijjsnzgg7ikt7kcc6rcaio2vhoyalo2vncdqsr3smrag7lwc7kcb7zmuia
+tags: csharp
+
+---
 
 다음의 코드로 예시를 들어보겠습니다.
 
