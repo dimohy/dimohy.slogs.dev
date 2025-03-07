@@ -1,4 +1,11 @@
-## Fusion 튜토리얼 - 0부: NuGet 패키지
+---
+title: "Fusion 튜토리얼 - 0부: NuGet 패키지"
+datePublished: Thu Aug 11 2022 13:34:17 GMT+0000 (Coordinated Universal Time)
+cuid: cl6p30j1u00b3fdnvdjcm8aep
+slug: fusion-0-nuget
+tags: dotnet, stlfusion
+
+---
 
 모든 Fusion 패키지는 [NuGet에서 사용](https://www.nuget.org/packages?q=Owner%3Aservicetitan+Tags%3Astl_fusion)할 수 있습니다.
 
