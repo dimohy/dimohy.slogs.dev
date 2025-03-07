@@ -1,4 +1,11 @@
-## .net으로 웹어셈블리 애플리케이션 시작하기
+---
+title: ".net으로 웹어셈블리 애플리케이션 시작하기"
+datePublished: Wed Sep 28 2022 09:54:33 GMT+0000 (Coordinated Universal Time)
+cuid: cl8lgats2001o09l1hytphsvx
+slug: first-dotnet-webassembly
+tags: webassembly, dotnet
+
+---
 
 .NET은 [Blazor Webassembly](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)를 통해 SPA(Single Page Application) 서비스를 제작할 수 있는 환경을 이미 제공하고 있습니다.
 
