@@ -1,4 +1,11 @@
-## .NET Foundation 프로젝트 소개(3): AutoMapper
+---
+title: ".NET Foundation 프로젝트 소개(3): AutoMapper"
+datePublished: Wed Dec 01 2021 01:57:31 GMT+0000 (Coordinated Universal Time)
+cuid: ckwmvpy9u0405ygs1257oevds
+slug: net-foundation-3-automapper
+tags: dotnet
+
+---
 
 여러분의 시간을 아낄 수 있는 .NET Foundation에서 후원하는 유용한 프로젝트를 소개하는 시간입니다.
 
