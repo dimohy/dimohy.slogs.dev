@@ -1,4 +1,11 @@
-## Rust #5: 5장 구조체를 사용하여 관련 데이터 구조화
+---
+title: "Rust #5: 5장 구조체를 사용하여 관련 데이터 구조화"
+datePublished: Wed Jul 28 2021 11:03:41 GMT+0000 (Coordinated Universal Time)
+cuid: ckrndr0090aoyems11l5dg02r
+slug: rust-5-5
+tags: rust
+
+---
 
 ## 개요
 의미있는 값을 그룹으로 묶어 관리하면 좀 더 효율적으로 프로그래밍 할 수 있습니다. Rust에도 마찬가지로 여러 관련된 값을 하나의 그룹으로 패키징 하여 사용자 정의 데이터 유형을 만들 수 있으며 이를 구조체(struct)라고 합니다.
