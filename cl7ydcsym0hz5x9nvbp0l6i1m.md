@@ -1,4 +1,11 @@
-## Fusion 튜토리얼 - 11부: Fusion에서 인증
+---
+title: "Fusion 튜토리얼 - 11부: Fusion에서 인증"
+datePublished: Mon Sep 12 2022 06:13:24 GMT+0000 (Coordinated Universal Time)
+cuid: cl7ydcsym0hz5x9nvbp0l6i1m
+slug: fusion-11-fusion
+tags: dotnet, stlfusion
+
+---
 
 # 11부: Fusion에서 인증
 
