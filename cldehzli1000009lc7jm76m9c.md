@@ -1,4 +1,11 @@
-# 상태 반환 패턴을 이용한 예시
+---
+title: "상태 반환 패턴을 이용한 예시"
+datePublished: Fri Jan 27 2023 12:25:57 GMT+0000 (Coordinated Universal Time)
+cuid: cldehzli1000009lc7jm76m9c
+slug: 7iob7yociouwmo2zmcdtjkjthltsnyqg7j207jqp7zwcioyyioylna
+tags: csharp
+
+---
 
 아래의 글에 영감을 받아
 
