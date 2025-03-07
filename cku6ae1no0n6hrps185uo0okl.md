@@ -1,4 +1,11 @@
-## Rust #14: 14장 Cargo 및 Crates.io에 대한 추가 정보
+---
+title: "Rust #14: 14장 Cargo 및 Crates.io에 대한 추가 정보"
+datePublished: Thu Sep 30 2021 01:56:40 GMT+0000 (Coordinated Universal Time)
+cuid: cku6ae1no0n6hrps185uo0okl
+slug: rust-14-14-cargo-cratesio
+tags: rust
+
+---
 
 ## 개요
 이번 장에서는 다음에 대해 살펴보도록 합니다.
