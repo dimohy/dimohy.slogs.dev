@@ -1,4 +1,12 @@
-## Mvvm 패턴의 고찰
+---
+title: "Mvvm 패턴의 고찰"
+datePublished: Mon Jan 03 2022 16:57:18 GMT+0000 (Coordinated Universal Time)
+cuid: ckxyxe71k00fsu8s18mhxghzk
+slug: mvvm
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1641228199576/ZrYwqw2tO.png
+tags: programming, mvvm
+
+---
 
 오늘은 MVVM 패턴에 대한 이해를 빠르게 가져보고 MVVM 패턴을 고찰해 보는 시간을 가져 보겠습니다.
 
