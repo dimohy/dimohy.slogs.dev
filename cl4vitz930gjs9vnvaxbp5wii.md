@@ -1,4 +1,11 @@
-## EF Core 6 배우기 - 5. 변경 추적 기능
+---
+title: "EF Core 6 배우기 - 5. 변경 추적 기능"
+datePublished: Sun Jun 26 2022 16:24:18 GMT+0000 (Coordinated Universal Time)
+cuid: cl4vitz930gjs9vnvaxbp5wii
+slug: ef-core-6-5
+tags: dotnet, efcore
+
+---
 
 EF Core는 변경 내용을 추적하는 기능을 제공 합니다. 이 기능을 이용해서 DbContext의 `SaveChanges`가 호출되었을 때 변경된 내용만 데이터베이스에 반영되게 됩니다.
 
