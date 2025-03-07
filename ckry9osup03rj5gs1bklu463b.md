@@ -1,4 +1,11 @@
-## Rust #6: 6장 열거형과 패턴 매칭
+---
+title: "Rust #6: 6장 열거형과 패턴 매칭"
+datePublished: Thu Aug 05 2021 01:55:28 GMT+0000 (Coordinated Universal Time)
+cuid: ckry9osup03rj5gs1bklu463b
+slug: rust-6-6
+tags: rust
+
+---
 
 ## 개요
 열거형(enum)은 특정 값을 식별할 수 있는 형태로 열거하여 정의하는 것을 말합니다. 가장 대표적인 예시가 `요일`이 될 수 잇겠는데요, 한 주는 '월, 화, 수, 목, 금, 토, 일'이라는 요일로 구성될 수 있습니다.
