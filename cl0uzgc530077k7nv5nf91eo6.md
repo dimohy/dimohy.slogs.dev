@@ -1,4 +1,12 @@
-## 소스 생성기 만들기 7부 - 소스 생성기 '마커 특성' 문제 해결 - 1부
+---
+title: "소스 생성기 만들기 7부 - 소스 생성기 '마커 특성' 문제 해결 - 1부"
+datePublished: Thu Mar 17 2022 12:42:59 GMT+0000 (Coordinated Universal Time)
+cuid: cl0uzgc530077k7nv5nf91eo6
+slug: creating-a-source-generator-part-7-solving-the-source-generator-marker-attribute-problem-part1
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1647518756506/nGqtXA8on.png
+tags: dotnet
+
+---
 
 > **이 글은 Andrew Lock님의 [소스 생성기 만들기](https://andrewlock.net/series/creating-a-source-generator/) 연재를 번역한 글입니다.**
 
