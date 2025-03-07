@@ -1,4 +1,12 @@
-## C# Next (C# 11 후보) 언어 기능
+---
+title: "C# Next (C# 11 후보) 언어 기능"
+datePublished: Wed Dec 29 2021 09:48:06 GMT+0000 (Coordinated Universal Time)
+cuid: ckxrcuzk409qk1js1erxo48vh
+slug: c-next-c-11
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1640841167354/8lR7DA5UD.png
+tags: csharp
+
+---
 
 C# 11의 언어 기능이 될 C# Next가 공개되었습니다.
 오늘은 C# Next 언어 기능에 대해 대략적으로 살펴볼 것입니다.
