@@ -1,4 +1,12 @@
-## [윈폼] Gdi+를 사용해 보자
+---
+title: "[윈폼] Gdi+를 사용해 보자"
+datePublished: Tue Feb 15 2022 00:40:39 GMT+0000 (Coordinated Universal Time)
+cuid: ckznefuo7081fn1s12swo29fr
+slug: winforms-gdi-plus
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1644885011527/QLE0WxoWk.png
+tags: desktop, windows, dotnet, winforms
+
+---
 
 # GDI+를 사용해 보자
 이번 글에서는 Windows Forms에서 GDI+를 자유롭게 이용할 수 있도록 사용법을 살펴 보도록 하겠습니다.
