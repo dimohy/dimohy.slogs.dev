@@ -1,4 +1,11 @@
-## EF Core 6 배우기 - 3. DB 컨텍스트
+---
+title: "EF Core 6 배우기 - 3. DB 컨텍스트"
+datePublished: Sun Jun 12 2022 09:23:48 GMT+0000 (Coordinated Universal Time)
+cuid: cl4b3nan307hbq2nv1lxbasj9
+slug: ef-core-6-3-db
+tags: dotnet, efcore
+
+---
 
 지금까지 EF Core의 개발 환경 구성 및 엔터티에 대해 간략히 살펴봤습니다. 좀 더 자세한 내용은 [마이크로소프트 EF Core 문서](https://docs.microsoft.com/en-us/ef/core/)를 통해 살펴볼 수 있습니다.
 
