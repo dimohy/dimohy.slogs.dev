@@ -1,4 +1,12 @@
-## 소스 생성기 만들기 1부 - 증분 생성기 만들기
+---
+title: "소스 생성기 만들기 1부 - 증분 생성기 만들기"
+datePublished: Tue Feb 22 2022 07:40:07 GMT+0000 (Coordinated Universal Time)
+cuid: ckzxti98n02ok03nv8ovye5oq
+slug: creating-a-source-generator-part-1-creating-an-incremental-source-generator
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1646028210562/9HMrme7GS.webp
+tags: dotnet
+
+---
 
 > **이 글은 Andrew Lock님의 [소스 생성기 만들기](https://andrewlock.net/series/creating-a-source-generator/) 연재를 번역한 글입니다.**
 
