@@ -1,4 +1,12 @@
-## hashnode에 본인의 도메인을 연결하는 방법
+---
+title: "hashnode에 본인의 도메인을 연결하는 방법"
+datePublished: Sun May 23 2021 03:28:51 GMT+0000 (Coordinated Universal Time)
+cuid: ckp0mfurf0gzrdss1hnnu40zl
+slug: hashnode-domain
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/0EVKn3-5JSU/upload/v1659680848398/6XBtHNrH-.jpeg
+tags: hashnode
+
+---
 
 우연하게 [hashnode](https://hashnode.com/)를 알게 되었고 앞으로 블로깅을 이곳에서 하기로 결정하였습니다.
 
