@@ -1,4 +1,11 @@
-## 소스 생성기 만들기 8부 - 소스 생성기 '마커 특성' 문제 해결 - 2부
+---
+title: "소스 생성기 만들기 8부 - 소스 생성기 '마커 특성' 문제 해결 - 2부"
+datePublished: Thu Mar 24 2022 05:31:05 GMT+0000 (Coordinated Universal Time)
+cuid: cl14k3vgk00um49nv0z4a5bnu
+slug: 8-2
+tags: dotnet
+
+---
 
 > **이 글은 Andrew Lock님의 [소스 생성기 만들기](https://andrewlock.net/series/creating-a-source-generator/) 연재를 번역한 글입니다.**
 
