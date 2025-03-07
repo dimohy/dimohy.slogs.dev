@@ -1,4 +1,11 @@
-## Rust #15: 15장 스마트 포인터
+---
+title: "Rust #15: 15장 스마트 포인터"
+datePublished: Thu Oct 07 2021 13:56:23 GMT+0000 (Coordinated Universal Time)
+cuid: ckuh06kbh06mc8ws10xgdd8v2
+slug: rust-15-15
+tags: rust
+
+---
 
 ## 개요
 Rust는 스마트 포인터를 이용해 다양한 기능을 제공합니다. Rust 문서에서는 String과 Vec<T>도 일종의 스마트 포인터라고 정의하며, Rust의 컴파일 시점 소유권에 더해서 런타임 시 소유권을 관리하는 방법을 알려줍니다.
