@@ -1,4 +1,12 @@
-## 소스 생성기 만들기 2부 - 스냅샷 테스트로 증분 생성기 테스트
+---
+title: "소스 생성기 만들기 2부 - 스냅샷 테스트로 증분 생성기 테스트"
+datePublished: Mon Feb 28 2022 02:49:29 GMT+0000 (Coordinated Universal Time)
+cuid: cl063rlhh0ci7udnv1eobht6b
+slug: 2
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1646015200348/oZqol7s4h.png
+tags: dotnet
+
+---
 
 > **이 글은 Andrew Lock님의 [소스 생성기 만들기](https://andrewlock.net/series/creating-a-source-generator/) 연재를 번역한 글입니다.**
 
