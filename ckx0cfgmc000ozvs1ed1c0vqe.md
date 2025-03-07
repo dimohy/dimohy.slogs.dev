@@ -1,4 +1,12 @@
-## .NET Foundation 프로젝트 소개(5): Polly
+---
+title: ".NET Foundation 프로젝트 소개(5): Polly"
+datePublished: Fri Dec 10 2021 12:06:10 GMT+0000 (Coordinated Universal Time)
+cuid: ckx0cfgmc000ozvs1ed1c0vqe
+slug: net-foundation-5-polly
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1639137918623/SuFZxkmBo.png
+tags: dotnet
+
+---
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1639137918623/SuFZxkmBo.png)
 
