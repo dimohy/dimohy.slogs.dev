@@ -1,4 +1,12 @@
-## .NET Core 탐색 2부 - WebApplicationBuilder와 일반 호스트 비교
+---
+title: ".NET Core 탐색 2부 - WebApplicationBuilder와 일반 호스트 비교"
+datePublished: Thu Nov 25 2021 10:54:47 GMT+0000 (Coordinated Universal Time)
+cuid: ckweu9rrz01yb17s12ytv6e1v
+slug: net-core-2-webapplicationbuilder
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1637813363552/KGex0F_oh.png
+tags: dotnet
+
+---
 
 ***본 시리즈는 Andrew Lock 님의 [.NET Core 6 탐색](https://andrewlock.net/series/exploring-dotnet-6/) 연재를 번역한 것입니다.***
 
