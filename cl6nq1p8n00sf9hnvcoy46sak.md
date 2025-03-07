@@ -1,4 +1,11 @@
-## TypeScript 배우기 - 8. keyof 타입 연산자
+---
+title: "TypeScript 배우기 - 8. keyof 타입 연산자"
+datePublished: Wed Aug 10 2022 14:43:31 GMT+0000 (Coordinated Universal Time)
+cuid: cl6nq1p8n00sf9hnvcoy46sak
+slug: typescript-8-keyof
+tags: typescript
+
+---
 
 오늘은 TypeScript의 `keyof` 타입 연산자에 대해 알아볼 것입니다. 어렵지 않으므로 빠르게 이해해 봅시다!
 
